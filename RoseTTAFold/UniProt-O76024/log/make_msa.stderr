@@ -1,0 +1,32 @@
+- 23:10:24.646 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-30.a3m
+
+- 23:10:24.646 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-30.id90cov75.a3m
+
+- 23:10:24.683 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-30.a3m
+
+- 23:10:24.683 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-30.id90cov50.a3m
+
+- 23:21:46.838 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-10.a3m
+
+- 23:21:46.838 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-10.id90cov75.a3m
+
+- 23:21:46.882 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-10.a3m
+
+- 23:21:46.882 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-10.id90cov50.a3m
+
+- 23:33:23.644 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-6.a3m
+
+- 23:33:23.644 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-6.id90cov75.a3m
+
+- 23:33:23.692 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-6.a3m
+
+- 23:33:23.692 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-6.id90cov50.a3m
+
+- 23:48:34.405 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-3.a3m
+
+- 23:48:34.405 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-3.id90cov75.a3m
+
+- 23:48:34.484 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-3.a3m
+
+- 23:48:34.485 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/hhblits/t000_.1e-3.id90cov50.a3m
+

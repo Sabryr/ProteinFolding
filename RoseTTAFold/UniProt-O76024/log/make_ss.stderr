@@ -1,0 +1,4 @@
+*** buffer overflow detected ***: psipred terminated
+/cluster/software/RoseTTAFold/1.0.0.2/RoseTTAFold/input_prep/make_ss.sh: line 19: 1190780 Aborted                 (core dumped) psipred $ID.mtx $DATADIR/weights.dat $DATADIR/weights.dat2 $DATADIR/weights.dat3 > $ID.ss
+Bad psipred pass1 file format!
+rm: cannot remove '/fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-O76024/t000_.msa0.a3m.csb.hhblits.ss2': No such file or directory

@@ -1,0 +1,28 @@
+- 23:34:23.790 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.a3m
+
+- 23:34:23.790 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.id90cov75.a3m
+
+- 23:34:23.939 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.a3m
+
+- 23:34:23.939 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.id90cov50.a3m
+
+- 23:40:37.242 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.a3m
+
+- 23:40:37.242 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.id90cov75.a3m
+
+- 23:40:37.440 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.a3m
+
+- 23:40:37.440 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.id90cov50.a3m
+
+- 23:49:58.653 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+
+- 23:49:58.653 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.id90cov75.a3m
+
+- 23:49:58.735 WARNING: Maximum number 65535 of sequences exceeded in file /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+
+- 23:49:59.042 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+
+- 23:49:59.042 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.id90cov50.a3m
+
+- 23:49:59.122 WARNING: Maximum number 65535 of sequences exceeded in file /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+

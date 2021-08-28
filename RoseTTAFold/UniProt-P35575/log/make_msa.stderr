@@ -1,0 +1,20 @@
+- 23:06:39.915 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-30.a3m
+
+- 23:06:39.915 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-30.id90cov75.a3m
+
+- 23:06:39.976 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-30.a3m
+
+- 23:06:39.976 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-30.id90cov50.a3m
+
+- 23:16:47.587 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-10.a3m
+
+- 23:16:47.587 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-10.id90cov75.a3m
+
+- 23:16:47.704 WARNING: Maximum number 65535 of sequences exceeded in file /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-10.a3m
+
+- 23:16:48.169 INFO: Input file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-10.a3m
+
+- 23:16:48.169 INFO: Output file = /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-10.id90cov50.a3m
+
+- 23:16:48.295 WARNING: Maximum number 65535 of sequences exceeded in file /fp/homes01/u01/ec-sabryr/RoseTTAFold/example2/UniProt-P35575/hhblits/t000_.1e-10.a3m
+

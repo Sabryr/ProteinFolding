@@ -1,0 +1,4 @@
+- 23:50:05.724 ERROR: In /tmp/ebbuild/HHsuite/3.3.0/foss-2020a/hh-suite-3.3.0/src/hhalignment.cpp:223: Read:
+
+- 23:50:05.725 ERROR: 	sequence ss_pred contains no residues.
+
