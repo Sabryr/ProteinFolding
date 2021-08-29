@@ -1,4 +1,6 @@
 ## Visualize
 find -type f -name "*.pdb"
+
 pymol -c ranked_0.pdb -d "cmd.png('O76024.png', width=800,height=800,dpi=600,  quiet=0)"
 
+for pdb in $(find -type f -name "*.pdb"); do  export FNM=$(echo $pdb| awk -F "/" '{print "png/"$2"_"$NF".png"}') ;echo pymol -c $pdb -d "cmd.png('$FNM', width=800,height=800,dpi=600,  quiet=0)";done;
