@@ -1,0 +1,1200 @@
+Query         sp|O76024|WFS1_HUMAN Wolframin
+Match_columns 890
+No_of_seqs    356 out of 1004
+Neff          5.98733
+Searched_HMMs 80799
+Date          Fri Aug 27 16:55:49 2021
+Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmpvpsucfl0/query.a3m -o /tmp/tmpvpsucfl0/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6IF6_A DnaJ domain protein; Fl  97.0 7.9E-06 9.8E-11   75.8   0.0  109   63-176     9-117 (133)
+  2 6NX4_A Eukaryotic elongation f  96.4 9.9E-05 1.2E-09   74.1   0.0  111   62-173     5-142 (167)
+  3 1KLX_A Cysteine Rich Protein B  95.2  0.0021 2.6E-08   59.4   0.0   86   83-171    40-125 (138)
+  4 5KS5_A Eukaryotic elongation f  95.1  0.0027 3.4E-08   60.0   0.0   66   83-151    11-92  (103)
+  5 5B26_A Protein sel-1 homolog 1  94.8  0.0045 5.5E-08   59.7   0.0   84   84-169    43-126 (186)
+  6 5B26_C Protein sel-1 homolog 1  94.8  0.0045 5.5E-08   59.7   0.0   84   84-169    43-126 (186)
+  7 5V7V_A ERAD-associated E3 ubiq  90.9   0.091 1.1E-06   67.7   0.0  113   59-172    99-220 (818)
+  8 5B26_A Protein sel-1 homolog 1  90.8   0.096 1.2E-06   50.6   0.0   87   83-171     5-92  (186)
+  9 5B26_C Protein sel-1 homolog 1  90.8   0.096 1.2E-06   50.6   0.0   87   83-171     5-92  (186)
+ 10 5JKP_A Uncharacterized protein  88.6    0.21 2.6E-06   52.8   0.0   87   83-172    38-126 (270)
+ 11 4BWR_A PROTEIN CORRESPONDING T  87.9    0.26 3.3E-06   55.4   0.0   80   87-169     3-82  (467)
+ 12 5V7V_A ERAD-associated E3 ubiq  87.1    0.32   4E-06   62.8   0.0   98   83-187   579-676 (818)
+ 13 5JKP_A Uncharacterized protein  84.0    0.62 7.6E-06   49.4   0.0  105   61-172    53-159 (270)
+ 14 4BWR_A PROTEIN CORRESPONDING T  81.6    0.91 1.1E-05   51.2   0.0   86   83-172   288-373 (467)
+ 15 6EZ8_A Huntingtin, Factor VIII  78.6     1.4 1.7E-05   60.5   0.0   33  708-740  1282-1325(3142)
+ 16 6J6G_A Pre-mRNA-splicing facto  78.1     1.4 1.8E-05   62.3   0.0   18  478-495   626-643 (2413)
+ 17 2XPI_A ANAPHASE-PROMOTING COMP  77.9     1.5 1.8E-05   52.2   0.0   76   83-169    99-176 (597)
+ 18 6TZT_C Coatomer subunit epsilo  75.5     1.9 2.4E-05   46.5   0.0   45   83-135    79-123 (322)
+ 19 3RJV_A Putative Sel1 repeat pr  75.0     2.1 2.6E-05   42.9   0.0   99   63-170    18-116 (212)
+ 20 6DEH_B TPR repeat protein, pro  73.6     2.4 2.9E-05   45.1   0.0   86   83-171   166-251 (327)
+ 21 4BWR_A PROTEIN CORRESPONDING T  72.0     2.8 3.4E-05   47.4   0.0  109   60-172    13-121 (467)
+ 22 6DEH_B TPR repeat protein, pro  70.9     3.1 3.8E-05   44.3   0.0   85   83-171    23-107 (327)
+ 23 5JJO_A Uncharacterized protein  70.5     3.1 3.9E-05   43.3   0.0   88   83-171    41-128 (273)
+ 24 6PVP_D Transient receptor pote  68.8     3.6 4.5E-05   53.0   0.0   16  532-547   551-566 (808)
+ 25 6PVN_D Transient receptor pote  68.2     3.8 4.7E-05   52.8   0.0   20  528-547   547-566 (808)
+ 26 1OUV_A conserved hypothetical   61.9     6.2 7.6E-05   40.6   0.0   87   83-172   129-215 (273)
+ 27 4BWR_A PROTEIN CORRESPONDING T  58.1       8 9.9E-05   43.8   0.0  104   64-171   125-228 (467)
+ 28 5GAM_A Pre-mRNA-splicing facto  56.1     9.1 0.00011   49.1   0.0   13  662-674   499-511 (735)
+ 29 6NX4_A Eukaryotic elongation f  55.6     9.4 0.00012   38.8   0.0   42  108-152   116-157 (167)
+ 30 5JJO_A Uncharacterized protein  48.7      14 0.00018   38.5   0.0   98   64-172    97-195 (273)
+ 31 1KWP_A MAP Kinase Activated Pr  45.7      17 0.00021   42.5   0.0   17    1-17      1-17  (400)
+ 32 6FSA_D Myosin-7, Myosin light   45.2      18 0.00022   37.0   0.0   62  180-253   137-198 (199)
+ 33 5N69_H Myosin-7, Myosin light   45.2      18 0.00022   37.0   0.0   62  180-253   137-198 (199)
+ 34 5KIS_B YenB, RHS2; ABC toxin,   41.4      22 0.00027   47.4   0.0    6  283-288   923-928 (965)
+ 35 6DEH_B TPR repeat protein, pro  41.2      22 0.00028   37.9   0.0  105   62-171    39-143 (327)
+ 36 1OUV_A conserved hypothetical   41.0      23 0.00028   36.5   0.0   85   83-170    57-141 (273)
+ 37 1NXK_D MAP kinase-activated pr  36.8      29 0.00036   40.7   0.0   14    3-16      3-16  (400)
+ 38 3RJV_A Putative Sel1 repeat pr  36.7      29 0.00036   34.8   0.0  106   64-173    86-198 (212)
+ 39 1KLX_A Cysteine Rich Protein B  32.9      37 0.00046   31.4   0.0   84   78-171     6-89  (138)
+ 40 3E4B_B AlgK; AlgK, tetratricop  31.0      42 0.00052   38.3   0.0   84   83-171    18-102 (452)
+ 41 3E4B_A AlgK; AlgK, tetratricop  31.0      42 0.00052   38.3   0.0   84   83-171    18-102 (452)
+ 42 6ICZ_J Protein mago nashi homo  25.6      60 0.00074   42.1   0.0   16   83-98    655-670 (848)
+ 43 3E4B_B AlgK; AlgK, tetratricop  25.1      62 0.00077   37.0   0.0   85   83-171   266-350 (452)
+ 44 3E4B_A AlgK; AlgK, tetratricop  25.0      63 0.00077   37.0   0.0   85   83-171   266-350 (452)
+ 45 5V7V_A ERAD-associated E3 ubiq  24.3      66 0.00082   42.5   0.0   31   83-113   170-200 (818)
+ 46 5V7V_A ERAD-associated E3 ubiq  23.9      68 0.00084   42.4   0.0   82   87-173   469-550 (818)
+ 47 4A1S_B PARTNER OF INSCUTEABLE,  23.5      70 0.00086   36.4   0.0   61   63-135    48-114 (411)
+ 48 5B26_A Protein sel-1 homolog 1  22.0      78 0.00097   30.7   0.0   91   62-156    95-185 (186)
+ 49 5B26_C Protein sel-1 homolog 1  22.0      78 0.00097   30.7   0.0   91   62-156    95-185 (186)
+ 50 3E4B_B AlgK; AlgK, tetratricop  21.7      80 0.00099   36.1   0.0   83   83-170    89-171 (452)
+ 51 3E4B_A AlgK; AlgK, tetratricop  21.7      80 0.00099   36.1   0.0   83   83-170    89-171 (452)
+ 52 5ZZ8_t VP19C, VP23, Major caps  21.2      83   0.001   48.0   0.0    7  256-262  3082-3088(3122)
+ 53 3O48_A Mitochondria fission 1   20.9      85  0.0011   30.3   0.0   82   83-172    22-107 (134)
+ 54 5JKP_A Uncharacterized protein  20.5      88  0.0011   33.4   0.0   80   83-174   145-225 (270)
+ 55 6U42_6O Tubulin beta, Tubulin   20.4      88  0.0011   36.7   0.0   27  180-206   290-316 (352)
+
+No 1
+>6IF6_A DnaJ domain protein; Flagellar formation control, single transmembrane; 1.9A {Vibrio alginolyticus}
+Probab=97.00  E-value=7.9e-06  Score=75.76  Aligned_cols=109  Identities=14%  Similarity=0.095  Sum_probs=89.0  Template_Neff=12.200
+
+Q sp|O76024|WFS1   63 PQAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAV  142 (890)
+Q Consensus        63 ~~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~  142 (890)
+                      +.+.+.++..+..+.+.+  +.+.+.++++++++.+++.+++.+|..|..+...   +.+..+|+.|+.++++.|+.++.
+T Consensus         9 ~~~~~~l~~~~~~~~~~~--~~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~---~~~~~~a~~~~~~~~~~~~~~a~   83 (133)
+T 6IF6_A            9 PIEQYEYAQQLLASNKAE--ASPDTRYWLEQSANQGYLPAQKQLANDFAKGING---EKNETQALYWLTSIALNDPTDQG   83 (133)
+T ss_pred             HHHHHHHHHHHHhCCCCC--CHHHHHHHHHHHHHCCCHHHHHHHHHHHHcCCCC---CCCHHHHHHHHHHHHHcCCHHHH
+Confidence            456777787777654322  4677899999999999999999999998876433   25678899999999999999999
+
+
+Q sp|O76024|WFS1  143 KLLRRCLADRRGITSENEREVRQLSSETDLERAV  176 (890)
+Q Consensus       143 ~lL~~c~~~~~GIt~~n~~~v~~~~~~s~~Ek~~  176 (890)
+                      ..++.++..+.+...+.+++.+|+.++.+.+..+
+T Consensus        84 ~~l~~~~~~~~~~~~~~~~a~~~~~~a~~~~~~~  117 (133)
+T 6IF6_A           84 FLLANFIQRNQDKVTTSQLTEALYQMASQHNPAA  117 (133)
+T ss_pred             HHHHHHHHcCCCCCCCHHHHHHHHHHHHHHCHHH
+Confidence            9999999988888889999999999988776433
+
+
+No 2
+>6NX4_A Eukaryotic elongation factor 2 kinase; eEF2K, eEF2, binding domain, kinase; NMR {Homo sapiens}
+Probab=96.40  E-value=9.9e-05  Score=74.13  Aligned_cols=111  Identities=14%  Similarity=0.119  Sum_probs=85.4  Template_Neff=10.500
+
+Q sp|O76024|WFS1   62 EPQAQHTRSRERAD----------GTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDT-DEELNSCTAVDWL  130 (890)
+Q Consensus        62 ~~~a~~~~~~~~~~----------~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~-d~e~n~~~Av~Wl  130 (890)
+                      .+.+.+.++.++..          +.+..+ +.+.+.+++.++++.|+..++..++.+|..+.... +.+.+..+|..|+
+T Consensus         5 ~~~a~~~lg~~~~~g~~~~~~~~~~~~~~~-~~~~a~~~~~~aa~~g~~~a~~~la~~~~~~~~~~~~~~~~~~~a~~~~   83 (167)
+T 6NX4_A            5 ELEAIVGLGLMYSQLPHHILADVSLKETEE-NKTKGFDYLLKAAEAGDRQSMILVARAFDSGQNLSPDRCQDWLEALHWY   83 (167)
+T ss_pred             CHHHHHHHHHHHHhccCcCccccCCCCCCC-CHHHHHHHHHHHHHCCCHHHHHHHHHHHHcCCCCCccccCCHHHHHHHH
+Confidence            34677788877776          333444 67889999999999999999999999998764331 1114667899999
+
+
+Q sp|O76024|WFS1  131 VLAAKQGRREAVKL------------LR----RCLADRRGITSENEREVRQLSSETDLE  173 (890)
+Q Consensus       131 ~kAa~qG~~~A~~l------------L~----~c~~~~~GIt~~n~~~v~~~~~~s~~E  173 (890)
+                      .++++.|+..+.+.            +.    .++..+.|...+..++.+|+.++++.+
+T Consensus        84 ~~~~~~~~~~a~~~~~~~~d~~~~~~~~~~~~~~~~~g~g~~~~~~~a~~~~~~aa~~g  142 (167)
+T 6NX4_A           84 NTALEMTDCDEGGEYDGMQDEPRYMMLAREAEMLFTGGYGLEKDPQRSGDLYTQAAEAA  142 (167)
+T ss_pred             HHHHHcCCHHHHHhcCCCCCHHHHHHHHHHHHHHHHcCCCCCCCHHHHHHHHHHHHHCC
+Confidence            99999999988776            66    777777777788888888888876543
+
+
+No 3
+>1KLX_A Cysteine Rich Protein B; Structural Genomics, helix-turn-helix, right handed; 1.95A {Helicobacter pylori} SCOP: a.118.18.1
+Probab=95.22  E-value=0.0021  Score=59.43  Aligned_cols=86  Identities=9%  Similarity=0.106  Sum_probs=53.8  Template_Neff=12.600
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+++.++++.+++.++..++..+..+...   ..+..+|..|+.++++.++..+...++.++..+.+...+..++
+T Consensus        40 ~~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~---~~~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~a  116 (138)
+T 1KLX_A           40 NKQKLFQYLSKACELNSGNGCRFLGDFYENGKYV---KKDLRKAAQYYSKACGLNDQDGCLILGYKQYAGKGVVKNEKQA  116 (138)
+T ss_pred             CHHHHHHHHHHHHHhCCHHHHHHHHHHHHcCCCC---CCCHHHHHHHHHHHHHCCCHHHHHHHHHHHHcCCCCCCCHHHH
+Confidence            4556677777777777777777777776654322   2455667777777777777777666666666554444555566
+
+
+Q sp|O76024|WFS1  163 VRQLSSETD  171 (890)
+Q Consensus       163 v~~~~~~s~  171 (890)
+                      ..++.++.+
+T Consensus       117 ~~~~~~a~~  125 (138)
+T 1KLX_A          117 VKTFEKACR  125 (138)
+T ss_pred             HHHHHHHHH
+Confidence            666555443
+
+
+No 4
+>5KS5_A Eukaryotic elongation factor 2 kinase; TRANSFERASE, eEF2K, SEL1, elongation, TPR; NMR {Homo sapiens}
+Probab=95.07  E-value=0.0027  Score=59.97  Aligned_cols=66  Identities=12%  Similarity=-0.053  Sum_probs=53.2  Template_Neff=9.100
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKA---------------QTEVGKHYLQL-AGDTDEELNSCTAVDWLVLAAKQGRREAVKLLR  146 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~a---------------Q~~lg~~yl~~-~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~  146 (890)
+                      +...+.+++.++++.++..+               ++.+|..+..+ ...   +.+..+|..|+.++++.|+..+...++
+T Consensus        11 ~~~~a~~~~~~aa~~~~~~a~~~~~~~~~~~~~~~~~~lg~~~~~g~~g~---~~d~~~A~~~~~~aa~~g~~~a~~~lg   87 (103)
+T 5KS5_A           11 DWLEALHWYNTALEMTDCDEGGEYDGMQDEPRYMMLAREAEMLFTGGYGL---EKDPQRSGDLYTQAAEAAMEAMKGRLA   87 (103)
+T ss_pred             CHHHHHHHHHHHHHcCCHHHHHhhhcCCCChhHHHHHHHHHHHHhcCCCC---CCCHHHHHHHHHHHHHCCCHHHHHHHH
+Confidence            55678888999888888877               88888888765 433   357788999999999999999988888
+
+
+Q sp|O76024|WFS1  147 RCLAD  151 (890)
+Q Consensus       147 ~c~~~  151 (890)
+                      .++..
+T Consensus        88 ~~y~~   92 (103)
+T 5KS5_A           88 NQYYQ   92 (103)
+T ss_pred             HHHHH
+Confidence            77753
+
+
+No 5
+>5B26_A Protein sel-1 homolog 1; SEL1L, SLR motif, ERAD, SIGNALING; 2.6A {Mus musculus}
+Probab=94.75  E-value=0.0045  Score=59.74  Aligned_cols=84  Identities=19%  Similarity=0.184  Sum_probs=34.2  Template_Neff=13.000
+
+Q sp|O76024|WFS1   84 MEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENEREV  163 (890)
+Q Consensus        84 ~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~v  163 (890)
+                      .+.+.+++.+++..+++.++..++..+......  ...+..+|..++.++.+.++..+...++.++..+.+...+..++.
+T Consensus        43 ~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~--~~~~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~a~  120 (186)
+T 5B26_A           43 HQRAFDYFNLAANAGNSHAMAFLGKMYSEGSDI--VPQSNETALHYFKKAADMGNPVGQSGLGMAYLYGRGVQVNYDLAL  120 (186)
+T ss_dssp             HHHHHHHHHHHHHTTCHHHHHHHHHHHHSCCSS--SCCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHTTSSSCCCHHHHH
+T ss_pred             HHHHHHHHHHHHHcCChhHHHHHHHHHhcCCCC--CCCCHHHHHHHHHHHHHCCCHHHHHHHHHHHHhCCCCCCCHHHHH
+Confidence            334444444444444444444444444322110  012333444444444444444444444444433322233344444
+
+
+Q sp|O76024|WFS1  164 RQLSSE  169 (890)
+Q Consensus       164 ~~~~~~  169 (890)
+                      +++.++
+T Consensus       121 ~~~~~~  126 (186)
+T 5B26_A          121 KYFQKA  126 (186)
+T ss_dssp             HHHHHH
+T ss_pred             HHHHHH
+Confidence            444443
+
+
+No 6
+>5B26_C Protein sel-1 homolog 1; SEL1L, SLR motif, ERAD, SIGNALING; 2.6A {Mus musculus}
+Probab=94.75  E-value=0.0045  Score=59.74  Aligned_cols=84  Identities=19%  Similarity=0.184  Sum_probs=33.9  Template_Neff=13.000
+
+Q sp|O76024|WFS1   84 MEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENEREV  163 (890)
+Q Consensus        84 ~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~v  163 (890)
+                      .+.+.+++.+++..+++.++..++..+......  ...+..+|..++.++.+.++..+...++.++..+.+...+..++.
+T Consensus        43 ~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~--~~~~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~a~  120 (186)
+T 5B26_C           43 HQRAFDYFNLAANAGNSHAMAFLGKMYSEGSDI--VPQSNETALHYFKKAADMGNPVGQSGLGMAYLYGRGVQVNYDLAL  120 (186)
+T ss_dssp             HHHHHHHHHHHHHTTCHHHHHHHHHHHHHC--C--CCCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSSCCCHHHHH
+T ss_pred             HHHHHHHHHHHHHcCChhHHHHHHHHHhcCCCC--CCCCHHHHHHHHHHHHHCCCHHHHHHHHHHHHhCCCCCCCHHHHH
+Confidence            334444444444444444444444444322110  012333444444444444444444444444433322233344444
+
+
+Q sp|O76024|WFS1  164 RQLSSE  169 (890)
+Q Consensus       164 ~~~~~~  169 (890)
+                      +++.++
+T Consensus       121 ~~~~~~  126 (186)
+T 5B26_C          121 KYFQKA  126 (186)
+T ss_dssp             HHHHHH
+T ss_pred             HHHHHH
+Confidence            444443
+
+
+No 7
+>5V7V_A ERAD-associated E3 ubiquitin-protein ligase component; Hrd3 ERAD, PROTEIN TRANSPORT; HET: NAG, BMA;{Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=90.93  E-value=0.091  Score=67.69  Aligned_cols=113  Identities=12%  Similarity=0.026  Sum_probs=88.7  Template_Neff=9.700
+
+Q sp|O76024|WFS1   59 APAEPQAQHTRSRERADGT-GPTKGDMEIPFEEVLERAKA---GDPKAQTEVGKHYLQLAG-----DTDEELNSCTAVDW  129 (890)
+Q Consensus        59 ~~~~~~a~~~~~~~~~~~~-~~~~~~~~~~~e~~~~~A~~---Gd~~aQ~~lg~~yl~~~~-----~~d~e~n~~~Av~W  129 (890)
+                      .+..+.+.+.++..+..+. +.+. +.+.|.++++++.+.   +++.+++.+|..|..+..     ....+.+..+|..|
+T Consensus        99 ~~~~~~a~~~La~~~~~~~~~~~~-~~~~A~~~~~~a~~~~~~~~~~a~~~lg~~y~~g~~g~~~~~~~~~~d~~kA~~~  177 (818)
+T 5V7V_A           99 QFNNSEATYTLSQIHLWSQYNFPH-NMTLAHKYLEKFNDLTHFTNHSAIFDLAVMYATGGCASGNDQTVIPQDSAKALLY  177 (818)
+T ss_dssp             HSCCCHHHHHHHHHHTTCCSSCCC-CHHHHHHHHHHHHHTTTTCCHHHHHHHHHHHHHCSSSCSSSTTCCCCCHHHHHHH
+T ss_pred             HcCCHHHHHHHHHHHhcCCCCCCC-CHHHHHHHHHHHHhhcCCCCHhHHHHHHHHHHhCcCcCCCcCCCCCCCHHHHHHH
+Confidence            3455778888888776643 2333 678899999988775   567899999999986520     00113678899999
+
+
+Q sp|O76024|WFS1  130 LVLAAKQGRREAVKLLRRCLADRRGITSENEREVRQLSSETDL  172 (890)
+Q Consensus       130 l~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~v~~~~~~s~~  172 (890)
+                      +.++++.|+..|...++.++..+.|...+.++|..+|.++.+.
+T Consensus       178 ~~~a~~~~~~~a~~~la~~~~~~~~~~~~~~~A~~~y~~a~~~  220 (818)
+T 5V7V_A          178 YQRAAQLGNLKAKQVLAYKYYSGFNVPRNFHKSLVLYRDIAEQ  220 (818)
+T ss_dssp             HHHHHHHTCHHHHHHHHHHHHHTSSSCCCHHHHHHHHHHHHHH
+T ss_pred             HHHHHHCCCHHHHHHHHHHHHcCCCCCCCHHHHHHHHHHHHHH
+Confidence            9999999999999999999999888889999999999888765
+
+
+No 8
+>5B26_A Protein sel-1 homolog 1; SEL1L, SLR motif, ERAD, SIGNALING; 2.6A {Mus musculus}
+Probab=90.82  E-value=0.096  Score=50.62  Aligned_cols=87  Identities=24%  Similarity=0.263  Sum_probs=62.0  Template_Neff=13.000
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRG-ITSENER  161 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~G-It~~n~~  161 (890)
+                      +.+.+.+++.++.+.+++.+...+|..+......  .+.+..+|..++.+++..++..+...++.++..+.+ ...+..+
+T Consensus         5 ~~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~--~~~~~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~~~~~~~~   82 (186)
+T 5B26_A            5 LEEDLIQYYQFLAEKGDVQAQVGLGQLHLHGGRG--VEQNHQRAFDYFNLAANAGNSHAMAFLGKMYSEGSDIVPQSNET   82 (186)
+T ss_dssp             CCHHHHHHHHHHHHTTCHHHHHHHHHHHHHCCSS--CCCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHSCCSSSCCCHHH
+T ss_pred             hHHHHHHHHHHHHHCCCHHHHHHHHHHHHcCCCC--CcccHHHHHHHHHHHHHcCChhHHHHHHHHHhcCCCCCCCCHHH
+Confidence            4567888888888888888999999988764111  124677899999999988888888888887764422 3345566
+
+
+Q sp|O76024|WFS1  162 EVRQLSSETD  171 (890)
+Q Consensus       162 ~v~~~~~~s~  171 (890)
+                      +..++.++.+
+T Consensus        83 a~~~~~~~~~   92 (186)
+T 5B26_A           83 ALHYFKKAAD   92 (186)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHH
+Confidence            6666655443
+
+
+No 9
+>5B26_C Protein sel-1 homolog 1; SEL1L, SLR motif, ERAD, SIGNALING; 2.6A {Mus musculus}
+Probab=90.82  E-value=0.096  Score=50.62  Aligned_cols=87  Identities=24%  Similarity=0.263  Sum_probs=61.5  Template_Neff=13.000
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRG-ITSENER  161 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~G-It~~n~~  161 (890)
+                      +.+.+.+++.++.+.+++.+...+|..+......  .+.+..+|..++.+++..++..+...++.++..+.+ ...+..+
+T Consensus         5 ~~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~--~~~~~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~~~~~~~~   82 (186)
+T 5B26_C            5 LEEDLIQYYQFLAEKGDVQAQVGLGQLHLHGGRG--VEQNHQRAFDYFNLAANAGNSHAMAFLGKMYSEGSDIVPQSNET   82 (186)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHCCTT--CCCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHHC--CCCCCHHH
+T ss_pred             hHHHHHHHHHHHHHCCCHHHHHHHHHHHHcCCCC--CcccHHHHHHHHHHHHHcCChhHHHHHHHHHhcCCCCCCCCHHH
+Confidence            4567888888888888888999999988764111  124677899999999988888888888887764422 3345566
+
+
+Q sp|O76024|WFS1  162 EVRQLSSETD  171 (890)
+Q Consensus       162 ~v~~~~~~s~  171 (890)
+                      +..++.++.+
+T Consensus        83 a~~~~~~~~~   92 (186)
+T 5B26_C           83 ALHYFKKAAD   92 (186)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHH
+Confidence            6666655443
+
+
+No 10
+>5JKP_A Uncharacterized protein; immunity protein, IMMUNE SYSTEM; 2.106A {Pseudomonas aeruginosa PAO1}
+Probab=88.62  E-value=0.21  Score=52.82  Aligned_cols=87  Identities=15%  Similarity=0.101  Sum_probs=63.7  Template_Neff=12.100
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLA--GDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENE  160 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~--~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~  160 (890)
+                      +.+.+.++++++++.+++.+...+|..+....  ..   ..+..+|..++.++.+.++..+...++.++..+.|...+..
+T Consensus        38 ~~~~A~~~~~~a~~~~~~~~~~~l~~~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~  114 (270)
+T 5JKP_A           38 PWGRIVEIYSKAVERGHWKAMHNLANLYRTGWPGGV---EKDPQKALDLYQKMIDLDVPQGFYDMGAMIGNRAGVKNPAT  114 (270)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHSCBTTTB---CCCHHHHHHHHHHHHHTTCHHHHHHHHHHHCGGGGTTCGGG
+T ss_pred             chHHHHHHHHHHHHCCCHHHHHHHHHHHHhCCCCCC---CCCHHHHHHHHHHHHhCCChHHHHHHHHHHHcCCCCCCChH
+Confidence            45667888888888788888888888776542  11   13667888999998888888888888888877655566777
+
+
+Q sp|O76024|WFS1  161 REVRQLSSETDL  172 (890)
+Q Consensus       161 ~~v~~~~~~s~~  172 (890)
+                      ++..++.++.+.
+T Consensus       115 ~A~~~~~~a~~~  126 (270)
+T 5JKP_A          115 DGLTFLDKAASL  126 (270)
+T ss_dssp             TTCCHHHHHHHT
+T ss_pred             HHHHHHHHHHHc
+Confidence            777777666543
+
+
+No 11
+>4BWR_A PROTEIN CORRESPONDING TO LOCUS C5321; UNKNOWN FUNCTION, SEL1-LIKE REPEAT, SUPER-HELICAL; HET: EDO; 1.74A {ESCHERICHIA COLI}
+Probab=87.86  E-value=0.26  Score=55.40  Aligned_cols=80  Identities=26%  Similarity=0.381  Sum_probs=43.3  Template_Neff=13.100
+
+Q sp|O76024|WFS1   87 PFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENEREVRQL  166 (890)
+Q Consensus        87 ~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~v~~~  166 (890)
+                      +++++.+.++.+++.+++.+|..+..+...   ..+..+|+.++.++.+.++..+...++.++....+...+..+|.+++
+T Consensus         3 ~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~A~~~~   79 (467)
+T 4BWR_A            3 NLEQLKQKAESGEAKAQLELGYRYFQGNET---TKDLTQAMDWFRRAAEQGYTPAEYVLGLRYMNGEGVPQDYAQAVIWY   79 (467)
+T ss_dssp             CHHHHHHHHHTTCHHHHHHHHHHHHHTSSS---CCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSSCCCHHHHHHHH
+T ss_pred             cHHHHHHHHhhccHHHHHHHHHHHhcCCCC---chhHHHHHHHHHHHHHcCCcHHHHHHHHHHHcCCCCCCCHHHHHHHH
+Confidence            344555555666666666666666542211   13455666666666666655555556555554433344555555555
+
+
+Q sp|O76024|WFS1  167 SSE  169 (890)
+Q Consensus       167 ~~~  169 (890)
+                      .++
+T Consensus        80 ~~~   82 (467)
+T 4BWR_A           80 KKA   82 (467)
+T ss_dssp             HHH
+T ss_pred             HHH
+Confidence            443
+
+
+No 12
+>5V7V_A ERAD-associated E3 ubiquitin-protein ligase component; Hrd3 ERAD, PROTEIN TRANSPORT; HET: NAG, BMA;{Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=87.05  E-value=0.32  Score=62.84  Aligned_cols=98  Identities=17%  Similarity=0.112  Sum_probs=80.3  Template_Neff=9.700
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.++++++.+.+++.+...+|..|...       .+..+|..++.++.+.++..+...++.++..+.|...+.++|
+T Consensus       579 ~~~~A~~~~~~a~~~~~~~a~~~lg~~y~~~-------g~~~~A~~~~~~a~~~~~~~a~~~Lg~~y~~~~g~~~d~~~A  651 (818)
+T 5V7V_A          579 RKTLAISYYTRAFKQGNIDAGVVAGDIYFQM-------QNYSKAMALYQGAALKYSIQAIWNLGYMHEHGLGVNRDFHLA  651 (818)
+T ss_dssp             HHHHHHHHHHHHHTTTCHHHHHHHHHHHHHS-------SCHHHHHHHHHHHHTTCCSHHHHHHHHHHHSSCCSSCCSHHH
+T ss_pred             cHHHHHHHHHHHHHcCCHHHHHHHHHHHHhC-------CCHHHHHHHHHHHHHcCCHHHHHHHHHHHHcCcCcCCCHHHH
+Confidence            5678899999999989999999999998764       567789999999999989999999999999988888999999
+
+
+Q sp|O76024|WFS1  163 VRQLSSETDLERAVRKAALVMYWKL  187 (890)
+Q Consensus       163 v~~~~~~s~~Ek~~r~AA~~mf~~L  187 (890)
+                      .++|.++.+....-...+.....++
+T Consensus       652 ~~~y~~al~~~~~~~~~~~l~l~~l  676 (818)
+T 5V7V_A          652 KRYYDQVSEHDHRFYLASKLSVLKL  676 (818)
+T ss_dssp             HHHHHHHHHHHSSCHHHHHHHHHHH
+T ss_pred             HHHHHHHHhcCChhhHHHHHHHHHH
+Confidence            9999998876544444444444444
+
+
+No 13
+>5JKP_A Uncharacterized protein; immunity protein, IMMUNE SYSTEM; 2.106A {Pseudomonas aeruginosa PAO1}
+Probab=83.99  E-value=0.62  Score=49.38  Aligned_cols=105  Identities=18%  Similarity=0.126  Sum_probs=72.5  Template_Neff=12.100
+
+Q sp|O76024|WFS1   61 AEPQAQHTRSRERADGT--GPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGR  138 (890)
+Q Consensus        61 ~~~~a~~~~~~~~~~~~--~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~  138 (890)
+                      ..+.+...++..+..+.  +..+ +.+.+.++++++.+.++..++..+|..+..+...   ..+..+|..|+.++++.++
+T Consensus        53 ~~~~~~~~l~~~~~~~~~~~~~~-~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~a~~~~~  128 (270)
+T 5JKP_A           53 GHWKAMHNLANLYRTGWPGGVEK-DPQKALDLYQKMIDLDVPQGFYDMGAMIGNRAGV---KNPATDGLTFLDKAASLGN  128 (270)
+T ss_dssp             TCHHHHHHHHHHHHSCBTTTBCC-CHHHHHHHHHHHHHTTCHHHHHHHHHHHCGGGGT---TCGGGTTCCHHHHHHHTTC
+T ss_pred             CCHHHHHHHHHHHHhCCCCCCCC-CHHHHHHHHHHHHhCCChHHHHHHHHHHHcCCCC---CCChHHHHHHHHHHHHcCC
+Confidence            34566777777766542  2333 6677888888888888888888888888764322   2466778889988888888
+
+
+Q sp|O76024|WFS1  139 REAVKLLRRCLADRRGITSENEREVRQLSSETDL  172 (890)
+Q Consensus       139 ~~A~~lL~~c~~~~~GIt~~n~~~v~~~~~~s~~  172 (890)
+                      ..+...++.++...   ..+..++++++.++.+.
+T Consensus       129 ~~~~~~l~~~~~~~---~~~~~~A~~~~~~a~~~  159 (270)
+T 5JKP_A          129 PPALTELGKLYIYV---AKEKELGLAYASCASSQ  159 (270)
+T ss_dssp             HHHHHHHHHCCCCC---SCCHHHHHHHHHHHHHT
+T ss_pred             hHHHHHHHHHHHHc---cccHHHHHHHHHHHHHC
+Confidence            88877777776531   13566677777666543
+
+
+No 14
+>4BWR_A PROTEIN CORRESPONDING TO LOCUS C5321; UNKNOWN FUNCTION, SEL1-LIKE REPEAT, SUPER-HELICAL; HET: EDO; 1.74A {ESCHERICHIA COLI}
+Probab=81.62  E-value=0.91  Score=51.20  Aligned_cols=86  Identities=22%  Similarity=0.372  Sum_probs=68.0  Template_Neff=13.100
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+++.++.+.+++.+...+|..|......    .+..+|..++.++.+.++..+...++.++..+.+...+.++|
+T Consensus       288 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~----~~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~A  363 (467)
+T 4BWR_A          288 NREQAISWYTKSAEQGDATAQANLGAIYFRLGSE----EEHKKAVEWFRKAAAKGEKAAQFNLGNALLQGKGVKKDEQQA  363 (467)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHSCCH----HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSSCCCHHHH
+T ss_pred             cHHHHHHHHHHHHHcCCHHHHHHHHHHHhccCCh----HHHHHHHHHHHHHHHcCCccHHHHHHHHHHcCCCCCCCHHHH
+Confidence            6778888888888888888899999888764211    266788999999988888888888888888766666788888
+
+
+Q sp|O76024|WFS1  163 VRQLSSETDL  172 (890)
+Q Consensus       163 v~~~~~~s~~  172 (890)
+                      .+++.++.+.
+T Consensus       364 ~~~~~~~~~~  373 (467)
+T 4BWR_A          364 AIWMRKAAEQ  373 (467)
+T ss_dssp             HHHHHHHHHT
+T ss_pred             HHHHHHHHHc
+Confidence            8888877654
+
+
+No 15
+>6EZ8_A Huntingtin, Factor VIII intron 22; Huntingtin, HAP40/F8A, Cryo-EM, Huntington's disease;{Homo sapiens}
+Probab=78.63  E-value=1.4  Score=60.49  Aligned_cols=33  Identities=18%  Similarity=0.406  Sum_probs=21.7  Template_Neff=2.500
+
+Q sp|O76024|WFS1  708 RVTDIDNSAESAINMLPF-----------FIGDWMRCLYGEAYP  740 (890)
+Q Consensus       708 rI~~I~N~~e~~i~~LP~-----------~l~~~L~C~YGE~~~  740 (890)
+                      .+++|.--.|.++.||-.           -+.+-|+|+||....
+T Consensus      1282 tl~~~~~~~e~ilgyl~s~~~~~~~~~~~cv~qllk~lf~tn~~ 1325 (3142)
+T 6EZ8_A         1282 TLQDIGKCVEEILGYLKSCFSREPMMATVCVQQLLKTLFGTNLA 1325 (3142)
+T ss_dssp             CHHHHTTTHHHHHHHHHHSTTTCCSSSSHHHHHHTTTTSCC---
+T ss_pred             hHHHHHHHHHHHHHHHHHhccCChhHHHHHHHHHHHHHHccCcc
+Confidence            356666677888887754           456778888887754
+
+
+No 16
+>6J6G_A Pre-mRNA-splicing factor 8, Pre-mRNA-splicing factor; spliceosme, B* complex, branching, snRNP; HET: GTP, SEP, I6P; 3.2A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=78.14  E-value=1.4  Score=62.34  Aligned_cols=18  Identities=17%  Similarity=0.390  Sum_probs=13.7  Template_Neff=4.600
+
+Q sp|O76024|WFS1  478 WPYLKVLGQTFITVPVGH  495 (890)
+Q Consensus       478 w~fL~~~~~tF~s~~iG~  495 (890)
+                      .|++++++..+..|++||
+T Consensus       626 lr~~KlivD~hvqyRlgn  643 (2413)
+T 6J6G_A          626 LKMMKLIVDTHVQFRLGN  643 (2413)
+T ss_dssp             HHHHHHHHHHHHHHHTTS
+T ss_pred             HHHHHHHHHHHHHHHcCC
+Confidence            456777788888888886
+
+
+No 17
+>2XPI_A ANAPHASE-PROMOTING COMPLEX SUBUNIT CUT9, ANAPHASE-PROMOTING; CELL CYCLE, TPR, UBIQUITIN LIGASE; 2.6A {SCHIZOSACCHAROMYCES POMBE}
+Probab=77.93  E-value=1.5  Score=52.19  Aligned_cols=76  Identities=11%  Similarity=-0.021  Sum_probs=37.9  Template_Neff=12.500
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAG-DPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQG-RREAVKLLRRCLADRRGITSENE  160 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~G-d~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG-~~~A~~lL~~c~~~~~GIt~~n~  160 (890)
+                      +.+.+.+.+.+..+.. +......++..+...       .+..+|..++.++.+.. +..+...++.++...    ++.+
+T Consensus        99 ~~~~A~~~~~~~~~~~~~~~~~~~l~~~~~~~-------g~~~~A~~~~~~~~~~~~~~~~~~~l~~~~~~~----~~~~  167 (597)
+T 2XPI_A           99 QYKCAAFVGEKVLDITGNPNDAFWLAQVYCCT-------GDYARAKCLLTKEDLYNRSSACRYLAAFCLVKL----YDWQ  167 (597)
+T ss_dssp             CHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHT-------TCHHHHHHHHHHTCGGGTCHHHHHHHHHHHHHT----TCHH
+T ss_pred             CHHHHHHHhhhheecCCCccHHHHHHHHHHHc-------CCHHHHHHHHHhhhccCcCHHHHHHHHHHHHHc----cCHH
+Confidence            4555666666554422 234455566665543       45566777776655422 223333344444332    3445
+
+
+Q sp|O76024|WFS1  161 REVRQLSSE  169 (890)
+Q Consensus       161 ~~v~~~~~~  169 (890)
+                      ++.+.+.+.
+T Consensus       168 ~A~~~~~~~  176 (597)
+T 2XPI_A          168 GALNLLGET  176 (597)
+T ss_dssp             HHHHHHCSS
+T ss_pred             HHHHHhccc
+Confidence            555555443
+
+
+No 18
+>6TZT_C Coatomer subunit epsilon, Coatomer subunit; TRANSPORT PROTEIN; 3.065A {Homo sapiens}
+Probab=75.51  E-value=1.9  Score=46.55  Aligned_cols=45  Identities=11%  Similarity=0.020  Sum_probs=21.9  Template_Neff=12.500
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAK  135 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~  135 (890)
+                      +.+.+.+.+.+.. ..+..+...++..+...       .+..+|...+.++.+
+T Consensus        79 ~~~~A~~~~~~~~-~~~~~~~~~l~~~~~~~-------g~~~~A~~~~~~~~~  123 (322)
+T 6TZT_C           79 KFGVVLDEIKPSS-APELQAVRMFADYLAHE-------SRRDSIVAELDREMS  123 (322)
+T ss_dssp             CHHHHHHHCCTTS-CHHHHHHHHHHHHHHCG-------GGHHHHHHHHHHHHT
+T ss_pred             CHHHHHHHhhccc-ChHHHHHHHHHHHHHHc-------cCHHHHHHHHHHHHh
+Confidence            3444555555443 22444455555555432       234456666665554
+
+
+No 19
+>3RJV_A Putative Sel1 repeat protein; ALPHA-ALPHA SUPERHELIX, STRUCTURAL GENOMICS, JOINT; HET: EDO; 1.65A {Klebsiella pneumoniae subsp. pneumoniae}
+Probab=74.96  E-value=2.1  Score=42.88  Aligned_cols=99  Identities=15%  Similarity=0.112  Sum_probs=64.9  Template_Neff=12.700
+
+Q sp|O76024|WFS1   63 PQAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAV  142 (890)
+Q Consensus        63 ~~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~  142 (890)
+                      +.+...++..+....     +.+.+.+++.++.+.++..+...+|..+.....    ..+..+|..++.++.+.++..+.
+T Consensus        18 ~~~~~~la~~~~~~~-----~~~~A~~~~~~a~~~~~~~~~~~l~~~~~~~~~----~~~~~~A~~~~~~~~~~~~~~~~   88 (212)
+T 3RJV_A           18 RRAQYYLADTWVSSG-----DYQKAEYWAQKAAAQGDGDALALLAQLKIRNPQ----QADYPQARQLAEKAVEAGSKSGE   88 (212)
+T ss_dssp             HHHHHHHHHHHHHHT-----CHHHHHHHHHHHHHTTCHHHHHHHHHHTTSSTT----SCCHHHHHHHHHHHHHTTCHHHH
+T ss_pred             HHHHHHHHHHHHcCC-----CHHHHHHHHHHHHHCCCHHHHHHHHHHHHhCCC----CCCHHHHHHHHHHHHHcCChHHH
+Confidence            345566666555421     567788888888887777888888888765421    13667888888888877777777
+
+
+Q sp|O76024|WFS1  143 KLLRRCLADRRGITSENEREVRQLSSET  170 (890)
+Q Consensus       143 ~lL~~c~~~~~GIt~~n~~~v~~~~~~s  170 (890)
+                      ..++.++....+...+.+++.+++.++.
+T Consensus        89 ~~l~~~~~~~~~~~~~~~~A~~~~~~~~  116 (212)
+T 3RJV_A           89 IVLARVLVNRQAGATDVAHAITLLQDAA  116 (212)
+T ss_dssp             HHHHHHHTCGGGSSCCHHHHHHHHHHHT
+T ss_pred             HHHHHHHHcCCCCCCCHHHHHHHHHHHH
+Confidence            7777776554322335555655554443
+
+
+No 20
+>6DEH_B TPR repeat protein, protein-protein interaction; SEL1-Like repeat (SLR) protein, PROTEIN; HET: GOL, PEG; 1.8A {Legionella pneumophila subsp. pneumophila}
+Probab=73.62  E-value=2.4  Score=45.14  Aligned_cols=86  Identities=21%  Similarity=0.164  Sum_probs=52.8  Template_Neff=13.200
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.+.+..+.++..+...++..+..+...   ..+..+|..++.++.+.++..+...++.++..+.+...+.+++
+T Consensus       166 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~A  242 (327)
+T 6DEH_B          166 DYQKAAEYFEKAANQGHAKSQLELGYLYDSGKLG---KSDLQKAAFWYQKSADLGNANAQFNLADMYFYGDGVGKSLEQS  242 (327)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTTTS---SCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSSCCCHHHH
+T ss_pred             CHHHHHHHHHHHHHcCCchHHHHHHHHHHhCCCC---CCcHHHHHHHHHHHHHcCChhHhHHHhhHhhcCCCCCCCHHHH
+Confidence            5666777777777666777777777777332111   1455667777777776666666666666665433334456666
+
+
+Q sp|O76024|WFS1  163 VRQLSSETD  171 (890)
+Q Consensus       163 v~~~~~~s~  171 (890)
+                      .+++.++.+
+T Consensus       243 ~~~~~~~~~  251 (327)
+T 6DEH_B          243 VYWMQKAAE  251 (327)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHH
+Confidence            666665544
+
+
+No 21
+>4BWR_A PROTEIN CORRESPONDING TO LOCUS C5321; UNKNOWN FUNCTION, SEL1-LIKE REPEAT, SUPER-HELICAL; HET: EDO; 1.74A {ESCHERICHIA COLI}
+Probab=72.00  E-value=2.8  Score=47.44  Aligned_cols=109  Identities=21%  Similarity=0.253  Sum_probs=72.5  Template_Neff=13.100
+
+Q sp|O76024|WFS1   60 PAEPQAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRR  139 (890)
+Q Consensus        60 ~~~~~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~  139 (890)
+                      +..+.+.+.++..+..+.+... +.+.+.++++++.+.+++.+...+|..|......   ..+..+|.+++.++.+.++.
+T Consensus        13 ~~~~~~~~~l~~~~~~~~~~~~-~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~   88 (467)
+T 4BWR_A           13 SGEAKAQLELGYRYFQGNETTK-DLTQAMDWFRRAAEQGYTPAEYVLGLRYMNGEGV---PQDYAQAVIWYKKAALKGLP   88 (467)
+T ss_dssp             TTCHHHHHHHHHHHHHTSSSCC-CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSS---CCCHHHHHHHHHHHHHTTCH
+T ss_pred             hccHHHHHHHHHHHhcCCCCch-hHHHHHHHHHHHHHcCCcHHHHHHHHHHHcCCCC---CCCHHHHHHHHHHHHHCCCH
+Confidence            3445666777776665332223 6677888888887777777888888877765322   24667788888888777777
+
+
+Q sp|O76024|WFS1  140 EAVKLLRRCLADRRGITSENEREVRQLSSETDL  172 (890)
+Q Consensus       140 ~A~~lL~~c~~~~~GIt~~n~~~v~~~~~~s~~  172 (890)
+                      .+...++.++....+...+..++.+++.++.+.
+T Consensus        89 ~~~~~l~~~~~~~~~~~~~~~~A~~~~~~~~~~  121 (467)
+T 4BWR_A           89 QAQQNLGVMYHEGNGVKVDKAESVKWFRLAAEQ  121 (467)
+T ss_dssp             HHHHHHHHHHHHTSSSCCCHHHHHHHHHHHHHT
+T ss_pred             HHHHHHHHHHHhCCCcccCHHHHHHHHHHHHHC
+Confidence            777777777766544444666777777665543
+
+
+No 22
+>6DEH_B TPR repeat protein, protein-protein interaction; SEL1-Like repeat (SLR) protein, PROTEIN; HET: GOL, PEG; 1.8A {Legionella pneumophila subsp. pneumophila}
+Probab=70.86  E-value=3.1  Score=44.31  Aligned_cols=85  Identities=18%  Similarity=0.201  Sum_probs=62.5  Template_Neff=13.200
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.++++.+.+++.+...+|..|.....    ..+..+|..++.++.+.++..+...++.++..+.+...+.+++
+T Consensus        23 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~----~~~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~A   98 (327)
+T 6DEH_B           23 NAEKTEQLLLASANQGNVDAQVLLAGFYWYLNT----PEGYKKAFEWYQKAADQNNADGQYGLGYMYDTGTGVPQNSDTA   98 (327)
+T ss_dssp             HHHHHHHHHHHHHHHTCHHHHHHHHHHHHHSCS----HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSSCCCHHHH
+T ss_pred             CHHHHHHHHHHHHhcCCHHHHHHHHHHHHHhCC----CCCHHHHHHHHHHHHHcCCHHHHHHHHHHHHcCCCCCCCHHHH
+Confidence            567788888888888888888888888876421    1366788999998887778888888888876644334566777
+
+
+Q sp|O76024|WFS1  163 VRQLSSETD  171 (890)
+Q Consensus       163 v~~~~~~s~  171 (890)
+                      .+++.++.+
+T Consensus        99 ~~~~~~~~~  107 (327)
+T 6DEH_B           99 MVWYKKAAE  107 (327)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHH
+Confidence            777766544
+
+
+No 23
+>5JJO_A Uncharacterized protein; immunity protein, IMMUNE SYSTEM; 2.002A {Pseudomonas aeruginosa PAO1}
+Probab=70.54  E-value=3.1  Score=43.26  Aligned_cols=88  Identities=11%  Similarity=0.066  Sum_probs=59.1  Template_Neff=12.900
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+++.++.+.+++.+...++..+...... ..+.+..+|..++.++.+.++..+...++.++..+.+...+..++
+T Consensus        41 ~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~~~~-~~~~~~~~A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~a  119 (273)
+T 5JJO_A           41 PWDRIVDLYSKAVERGHWKAMHNLASLYRTGWPG-GVEKDTQKALDLYQKMIDLKVPQGFYDMAAMIGNRAGVKNPATDG  119 (273)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHCC------CCHHHHHHHHHHHHHTTCHHHHHHHHHHHCSGGGGGSGGGSS
+T ss_pred             CHHHHHHHHHHHHHCCCHHHHHHHHHHHHhCCCC-CCCCCHHHHHHHHHHHHHcCChHHHHHHHHHHHcCCCCCCChHHH
+Confidence            5667788888887777778888888887764200 001366788888888888777777777777776644434566666
+
+
+Q sp|O76024|WFS1  163 VRQLSSETD  171 (890)
+Q Consensus       163 v~~~~~~s~  171 (890)
+                      .+++.++.+
+T Consensus       120 ~~~~~~~~~  128 (273)
+T 5JJO_A          120 LTFLDKAAS  128 (273)
+T ss_dssp             CCHHHHHHH
+T ss_pred             HHHHHHHHH
+Confidence            666655443
+
+
+No 24
+>6PVP_D Transient receptor potential cation channel; Ion Channels, Membrane Protein, TRP; 4.48A {Mus musculus}
+Probab=68.78  E-value=3.6  Score=53.00  Aligned_cols=16  Identities=6%  Similarity=0.295  Sum_probs=9.5  Template_Neff=10.500
+
+Q sp|O76024|WFS1  532 VPYLVCFMWCELSVVI  547 (890)
+Q Consensus       532 IPHlV~l~W~qlai~~  547 (890)
+                      +--.+.++|+.+.-.+
+T Consensus       551 ~~~~~~l~~~~~l~~~  566 (808)
+T 6PVP_D          551 LVLAMALGWANMLAYT  566 (808)
+T ss_dssp             HHHHHHHHHHHHTTSC
+T ss_pred             HHHHHHHHHHHHHHHH
+Confidence            3345667777765543
+
+
+No 25
+>6PVN_D Transient receptor potential cation channel; Ion Channels, Membrane Protein, TRP; 4.07A {Mus musculus}
+Probab=68.17  E-value=3.8  Score=52.80  Aligned_cols=20  Identities=10%  Similarity=0.280  Sum_probs=12.0  Template_Neff=10.500
+
+Q sp|O76024|WFS1  528 YCYLVPYLVCFMWCELSVVI  547 (890)
+Q Consensus       528 Y~~LIPHlV~l~W~qlai~~  547 (890)
+                      |..++--.+.++|+.+.-.+
+T Consensus       547 ~~~~~~~~~~l~~~~~l~~~  566 (808)
+T 6PVN_D          547 YLACLVLAMALGWANMLAYT  566 (808)
+T ss_dssp             HHHHHHHHHHHHHHGGGGST
+T ss_pred             HHHHHHHHHHHHHHHHHHHH
+Confidence            34444566677787765543
+
+
+No 26
+>1OUV_A conserved hypothetical secreted protein; TPR REPEAT, HCP REPEAT, CYSTEINE; 2.0A {Helicobacter pylori} SCOP: a.118.18.1
+Probab=61.87  E-value=6.2  Score=40.63  Aligned_cols=87  Identities=15%  Similarity=0.076  Sum_probs=58.3  Template_Neff=13.300
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.+.+..+.+...+...++..+......   ..+..+|.+++.++.+.+...+...++..+....+..++.+++
+T Consensus       129 ~~~~A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~A  205 (273)
+T 1OUV_A          129 DFKKAVEYFTKACDLNDGDGCTILGSLYDAGRGT---PKDLKKALASYDKACDLKDSPGCFNAGNMYHHGEGATKNFKEA  205 (273)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSS---CCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTCSSCCCHHHH
+T ss_pred             CHHHHHHHHHHHHHcCCccHHHHHHHHHHhCCCC---ChhHHHHHHHHHHHhcCCChhHHHHHHHHHhcCccccccHHHH
+Confidence            6777888888887776666677777776653221   1466778888888877777666666666665533334567777
+
+
+Q sp|O76024|WFS1  163 VRQLSSETDL  172 (890)
+Q Consensus       163 v~~~~~~s~~  172 (890)
+                      .+.+.++.+.
+T Consensus       206 ~~~~~~~~~~  215 (273)
+T 1OUV_A          206 LARYSKACEL  215 (273)
+T ss_dssp             HHHHHHHHHT
+T ss_pred             HHHHHHHHhc
+Confidence            7777766543
+
+
+No 27
+>4BWR_A PROTEIN CORRESPONDING TO LOCUS C5321; UNKNOWN FUNCTION, SEL1-LIKE REPEAT, SUPER-HELICAL; HET: EDO; 1.74A {ESCHERICHIA COLI}
+Probab=58.06  E-value=8  Score=43.83  Aligned_cols=104  Identities=19%  Similarity=0.216  Sum_probs=67.0  Template_Neff=13.100
+
+Q sp|O76024|WFS1   64 QAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVK  143 (890)
+Q Consensus        64 ~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~  143 (890)
+                      .+...++..+..+..... +.+.+.+.+++..+.+++.+...++..|......   ..+..+|..++.++.+.++..+..
+T Consensus       125 ~~~~~l~~~~~~~~~~~~-~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~a~~~~~~~~~~~~~~~~~  200 (467)
+T 4BWR_A          125 SGQQSMGDAYFEGDGVTR-DYVMAREWYSKAAEQGNVWSCNQLGYMYSRGLGV---ERNDAISAQWYRKSATSGDELGQL  200 (467)
+T ss_dssp             HHHHHHHHHHHHTSSSCC-CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSS---CCCHHHHHHHHHHHHHTTCHHHHH
+T ss_pred             hHHHHHHHHHhcCCCCcc-cHHHHHHHHHHHHHCCCHHHHHHHHHHHHcCCCC---CCChHHHHHHHHHHHhcCCHHHHH
+Confidence            445566666654222122 5667788888887777778888888887763222   245667788888887777777777
+
+
+Q sp|O76024|WFS1  144 LLRRCLADRRGITSENEREVRQLSSETD  171 (890)
+Q Consensus       144 lL~~c~~~~~GIt~~n~~~v~~~~~~s~  171 (890)
+                      .++.++..+.+...+..++.+++.+..+
+T Consensus       201 ~l~~~~~~~~~~~~~~~~a~~~~~~~~~  228 (467)
+T 4BWR_A          201 HLADMYYFGIGVTQDYTQSRVLFSQSAE  228 (467)
+T ss_dssp             HHHHHHHHTSSSCCCHHHHHHHHHHHHT
+T ss_pred             HHHHHHHcCCCCCCCHHHHHHHHHHHHH
+Confidence            7777666444444566666666665544
+
+
+No 28
+>5GAM_A Pre-mRNA-splicing factor 8, Pre-mRNA-splicing factor; Transcription, pre-mRNA splicing, snRNP, GTPase; HET: GTP; 3.7A {Saccharomyces cerevisiae}
+Probab=56.09  E-value=9.1  Score=49.14  Aligned_cols=13  Identities=8%  Similarity=-0.123  Sum_probs=7.3  Template_Neff=3.800
+
+Q sp|O76024|WFS1  662 STLTWQQYGALCG  674 (890)
+Q Consensus       662 s~LtWeqY~~~C~  674 (890)
+                      ..|...=|.++|.
+T Consensus       499 vpLvk~wy~e~~~  511 (735)
+T 5GAM_A          499 VALAKKWFLQHPD  511 (735)
+T ss_dssp             CCSSHHHHTSCCC
+T ss_pred             chhhcchhhccCC
+Confidence            3455555666664
+
+
+No 29
+>6NX4_A Eukaryotic elongation factor 2 kinase; eEF2K, eEF2, binding domain, kinase; NMR {Homo sapiens}
+Probab=55.59  E-value=9.4  Score=38.77  Aligned_cols=42  Identities=14%  Similarity=-0.004  Sum_probs=30.7  Template_Neff=10.500
+
+Q sp|O76024|WFS1  108 KHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADR  152 (890)
+Q Consensus       108 ~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~  152 (890)
+                      ..+..+...   +.|..+|..|+.++++.|+..+...++.++...
+T Consensus       116 ~~~~~g~g~---~~~~~~a~~~~~~aa~~g~~~a~~~l~~~~~~~  157 (167)
+T 6NX4_A          116 MLFTGGYGL---EKDPQRSGDLYTQAAEAAMEAMKGRLANQYYQK  157 (167)
+T ss_pred             HHHHcCCCC---CCCHHHHHHHHHHHHHCCCHHHHHHHHHHHHHH
+Confidence            455444333   367788899999999999998888888776543
+
+
+No 30
+>5JJO_A Uncharacterized protein; immunity protein, IMMUNE SYSTEM; 2.002A {Pseudomonas aeruginosa PAO1}
+Probab=48.72  E-value=14  Score=38.46  Aligned_cols=98  Identities=16%  Similarity=0.085  Sum_probs=65.6  Template_Neff=12.900
+
+Q sp|O76024|WFS1   64 QAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVK  143 (890)
+Q Consensus        64 ~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~  143 (890)
+                      .+...++..+..+.+... +.+.+.+++.+..+.++..++..++..+...      ..+..+|..++.++.+.++..+..
+T Consensus        97 ~~~~~~~~~~~~~~~~~~-~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~------~~~~~~A~~~~~~~~~~~~~~~~~  169 (273)
+T 5JJO_A           97 QGFYDMAAMIGNRAGVKN-PATDGLTFLDKAASLGNPPALTELGRLYIYV------AGQDELGLKYTNCAAGQGYAPANY  169 (273)
+T ss_dssp             HHHHHHHHHHCSGGGGGS-GGGSSCCHHHHHHHTTCHHHHHHHHHHHHHT------SCCHHHHHHHHHHHHTTTCHHHHH
+T ss_pred             HHHHHHHHHHHcCCCCCC-ChHHHHHHHHHHHHcCCHHHHHHHHHHHHhc------CCcHHHHHHHHHHHhcCCChhHHH
+Confidence            344444444443211122 6677888888888777778888888887652      135567888888888888777777
+
+
+Q sp|O76024|WFS1  144 LLRRCLAD-RRGITSENEREVRQLSSETDL  172 (890)
+Q Consensus       144 lL~~c~~~-~~GIt~~n~~~v~~~~~~s~~  172 (890)
+                      .++.++.. .    .+.+++.+++.++.+.
+T Consensus       170 ~l~~~~~~~~----~~~~~A~~~~~~~~~~  195 (273)
+T 5JJO_A          170 ELAMYYRLVA----HNYPKAAGYYLLAASQ  195 (273)
+T ss_dssp             HHHHHHHHTS----CCHHHHHHHHHHHHHT
+T ss_pred             HHHHHHHHhh----CCHHHHHHHHHHHHHC
+Confidence            78777764 3    3667777777776544
+
+
+No 31
+>1KWP_A MAP Kinase Activated Protein Kinase; MAPKAP2, protein kinase, signal transduction; HET: HG; 2.8A {Homo sapiens} SCOP: d.144.1.7
+Probab=45.69  E-value=17  Score=42.53  Aligned_cols=17  Identities=41%  Similarity=0.653  Sum_probs=0.0  Template_Neff=10.700
+
+Q sp|O76024|WFS1    1 MDSNTAPLGPSCPQPPP   17 (890)
+Q Consensus         1 ~~~~~~~~~~~~~~~~~   17 (890)
+                      |-++..+.+|+.|.|+|
+T Consensus         1 ~~~~~~~~~~~~p~p~p   17 (400)
+T 1KWP_A            1 MLSNSQGQSPPVPFPAP   17 (400)
+T ss_dssp             -----------------
+T ss_pred             CCCCCCCCCCCCCCCCC
+Confidence            44455555544444433
+
+
+No 32
+>6FSA_D Myosin-7, Myosin light chain 3; Motor protein, myosin, hypertrophic cardiomyopathy; HET: MLY, ADP, FMT; 2.33A {Bos taurus}
+Probab=45.24  E-value=18  Score=37.02  Aligned_cols=62  Identities=15%  Similarity=0.189  Sum_probs=33.7  Template_Neff=11.600
+
+Q sp|O76024|WFS1  180 ALVMYWKLNPKKKKQVAVAELLENVGQVNEHDGGAQPGPVPKSLQKQRRMLERLVSSESKNYIALDDFVEITKK  253 (890)
+Q Consensus       180 A~~mf~~L~~~~k~~v~~~el~e~v~~v~~~~~~~~~~~~~~~~~~~~~~le~~~~~~~~~~v~~d~fv~~~k~  253 (890)
+                      .+.+|..+..++...|+..|+.+-+......        ..  .+....++..  ..+.+..|+.++|+....+
+T Consensus       137 ~~~~f~~~d~~~~g~i~~~e~~~~l~~~~~~--------~~--~~~~~~l~~~--~~~~~g~i~~~ef~~~~~~  198 (199)
+T 6FSA_D          137 FVEGLRVFDKEGNGTVMGAELRHVLATLGEK--------LT--EDEVEKLMAG--QEDSNGCINYEAFVKHIMA  198 (199)
+T ss_dssp             HHHHHHTTCSSSSSCEEHHHHHHHHHHSSSC--------CC--HHHHHHHCSS--CCCSSCEECTTHHHHHHTT
+T ss_pred             HHHHHHhhcCCCCCeeCHHHHHHHHHHcCCC--------CC--HHHHHHHHhc--CcCCCCccCHHHHHHHHhc
+Confidence            4556766666666778888887777654211        00  0111122222  2223456888888876543
+
+
+No 33
+>5N69_H Myosin-7, Myosin light chain 3; myosin, cardiac, Omecamtiv Mecarbil, CK-452; HET: M3L, ADP, VO4, 2OW, GOL, TCE; 2.45A {Bos taurus}
+Probab=45.24  E-value=18  Score=37.02  Aligned_cols=62  Identities=15%  Similarity=0.189  Sum_probs=33.7  Template_Neff=11.600
+
+Q sp|O76024|WFS1  180 ALVMYWKLNPKKKKQVAVAELLENVGQVNEHDGGAQPGPVPKSLQKQRRMLERLVSSESKNYIALDDFVEITKK  253 (890)
+Q Consensus       180 A~~mf~~L~~~~k~~v~~~el~e~v~~v~~~~~~~~~~~~~~~~~~~~~~le~~~~~~~~~~v~~d~fv~~~k~  253 (890)
+                      .+.+|..+..++...|+..|+.+-+......        ..  .+....++..  ..+.+..|+.++|+....+
+T Consensus       137 ~~~~f~~~d~~~~g~i~~~e~~~~l~~~~~~--------~~--~~~~~~l~~~--~~~~~g~i~~~ef~~~~~~  198 (199)
+T 5N69_H          137 FVEGLRVFDKEGNGTVMGAELRHVLATLGEK--------LT--EDEVEKLMAG--QEDSNGCINYEAFVKHIMA  198 (199)
+T ss_dssp             HHHHHHTTCSSSCSCEEHHHHHHHHHHSSSC--------CC--HHHHHHHHTT--CCCTTSEECTTHHHHHHHH
+T ss_pred             HHHHHHhhcCCCCCeeCHHHHHHHHHHcCCC--------CC--HHHHHHHHhc--CcCCCCccCHHHHHHHHhc
+Confidence            4556766666666778888887777654211        00  0111122222  2223456888888876543
+
+
+No 34
+>5KIS_B YenB, RHS2; ABC toxin, RHS, TOXIN; 2.4A {Yersinia entomophaga}
+Probab=41.40  E-value=22  Score=47.44  Aligned_cols=6  Identities=33%  Similarity=0.617  Sum_probs=2.5  Template_Neff=10.100
+
+Q sp|O76024|WFS1  283 PLRLKV  288 (890)
+Q Consensus       283 ~l~~kv  288 (890)
+                      ||..|+
+T Consensus       923 ~~~~~~  928 (965)
+T 5KIS_B          923 PLYNRM  928 (965)
+T ss_pred             ecccce
+Confidence            444443
+
+
+No 35
+>6DEH_B TPR repeat protein, protein-protein interaction; SEL1-Like repeat (SLR) protein, PROTEIN; HET: GOL, PEG; 1.8A {Legionella pneumophila subsp. pneumophila}
+Probab=41.17  E-value=22  Score=37.88  Aligned_cols=105  Identities=20%  Similarity=0.166  Sum_probs=64.1  Template_Neff=13.200
+
+Q sp|O76024|WFS1   62 EPQAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREA  141 (890)
+Q Consensus        62 ~~~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A  141 (890)
+                      .+.+...++..+.... ..+ +.+.+.+.+.++.+.+++.+...++..+..+...   ..+..+|..++.++.+.+...+
+T Consensus        39 ~~~~~~~l~~~~~~~~-~~~-~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~  113 (327)
+T 6DEH_B           39 NVDAQVLLAGFYWYLN-TPE-GYKKAFEWYQKAADQNNADGQYGLGYMYDTGTGV---PQNSDTAMVWYKKAAEQGNSNA  113 (327)
+T ss_dssp             CHHHHHHHHHHHHHSC-SHH-HHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSS---CCCHHHHHHHHHHHHHTTCHHH
+T ss_pred             CHHHHHHHHHHHHHhC-CCC-CHHHHHHHHHHHHHcCCHHHHHHHHHHHHcCCCC---CCCHHHHHHHHHHHHHCCChHH
+Confidence            3455566666554421 112 4566777787777777777888888877763211   1455677888888877776666
+
+
+Q sp|O76024|WFS1  142 VKLLRRCLADRRGITSENEREVRQLSSETD  171 (890)
+Q Consensus       142 ~~lL~~c~~~~~GIt~~n~~~v~~~~~~s~  171 (890)
+                      ...++.++........+.+++.+++.+..+
+T Consensus       114 ~~~l~~~~~~~~~~~~~~~~a~~~~~~~~~  143 (327)
+T 6DEH_B          114 ALAIGYNYDTGTGVKKDKTQALNWYAKAAD  143 (327)
+T ss_dssp             HHHHHHHHHHTSSSCCCHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHhcCCCCCCCHHHHHHHHHHHHH
+Confidence            666666655433333456666666665544
+
+
+No 36
+>1OUV_A conserved hypothetical secreted protein; TPR REPEAT, HCP REPEAT, CYSTEINE; 2.0A {Helicobacter pylori} SCOP: a.118.18.1
+Probab=40.98  E-value=23  Score=36.54  Aligned_cols=85  Identities=13%  Similarity=0.121  Sum_probs=47.5  Template_Neff=13.300
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.+.+..+.++..+...++..+......   ..+..+|..++.++.+.++..+...++.++..+.+..++.+++
+T Consensus        57 ~~~~a~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~A  133 (273)
+T 1OUV_A           57 NLKKAASFYAKACDLNYSNGCHLLGNLYYSGQGV---SQNTNKALQYYSKACDLKYAEGCASLGGIYHDGKVVTRDFKKA  133 (273)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTSSS---CCCHHHHHHHHHHHHHTTCHHHHHHHHHHHHHCSSSCCCHHHH
+T ss_pred             cHHHHHHHHHHHHHCCCHHHHHHHHHHHHcCCCC---CccHHHHHHHHHHHhhcCcHHHHHHHHHHHhCCcccccCHHHH
+Confidence            4556666776666666556666666666542111   1355667777777666555555555666655433333455555
+
+
+Q sp|O76024|WFS1  163 VRQLSSET  170 (890)
+Q Consensus       163 v~~~~~~s  170 (890)
+                      .+.+.++.
+T Consensus       134 ~~~~~~~~  141 (273)
+T 1OUV_A          134 VEYFTKAC  141 (273)
+T ss_dssp             HHHHHHHH
+T ss_pred             HHHHHHHH
+Confidence            55555443
+
+
+No 37
+>1NXK_D MAP kinase-activated protein kinase 2; protein kinase, mk2, phosphorylation, staurosporine; HET: STU, SO4, MSE; 2.7A {Homo sapiens} SCOP: d.144.1.7
+Probab=36.84  E-value=29  Score=40.68  Aligned_cols=14  Identities=36%  Similarity=0.605  Sum_probs=0.0  Template_Neff=10.700
+
+Q sp|O76024|WFS1    3 SNTAPLGPSCPQPP   16 (890)
+Q Consensus         3 ~~~~~~~~~~~~~~   16 (890)
+                      ++..+.+|+.|.|+
+T Consensus         3 ~~~~~~~~~~~~p~   16 (400)
+T 1NXK_D            3 SNSQGQSPPVPFPA   16 (400)
+T ss_dssp             --------------
+T ss_pred             CcCCCCCCCCCCCC
+Confidence            33334444433333
+
+
+No 38
+>3RJV_A Putative Sel1 repeat protein; ALPHA-ALPHA SUPERHELIX, STRUCTURAL GENOMICS, JOINT; HET: EDO; 1.65A {Klebsiella pneumoniae subsp. pneumoniae}
+Probab=36.68  E-value=29  Score=34.75  Aligned_cols=106  Identities=10%  Similarity=0.043  Sum_probs=67.3  Template_Neff=12.700
+
+Q sp|O76024|WFS1   64 QAQHTRSRERADGTGPTKGDMEIPFEEVLERAKA----GDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQG-R  138 (890)
+Q Consensus        64 ~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~----Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG-~  138 (890)
+                      .+...++..+........ +.+.+.+++.+..+.    .+..+...++..+..+...   ..+..+|..++.++.+.+ +
+T Consensus        86 ~~~~~l~~~~~~~~~~~~-~~~~A~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~  161 (212)
+T 3RJV_A           86 SGEIVLARVLVNRQAGAT-DVAHAITLLQDAARDSESDAAVDAQMLLGLIYASGVHG---PEDDVKASEYFKGSSSLSRT  161 (212)
+T ss_dssp             HHHHHHHHHHTCGGGSSC-CHHHHHHHHHHHTSSTTSHHHHHHHHHHHHHHHHTSSS---SCCHHHHHHHHHHHHHTSCT
+T ss_pred             HHHHHHHHHHHcCCCCCC-CHHHHHHHHHHHHHCCCcchhHHHHHHHHHHHHcCCCC---CCCHHHHHHHHHHHHccccc
+Confidence            344445554443221123 566677777776653    5677788888888774322   256678888888887764 4
+
+
+Q sp|O76024|WFS1  139 REAVKLLRRCLADRR--GITSENEREVRQLSSETDLE  173 (890)
+Q Consensus       139 ~~A~~lL~~c~~~~~--GIt~~n~~~v~~~~~~s~~E  173 (890)
+                      ..+...++.++....  +...+.++|++++.++.+.+
+T Consensus       162 ~~~~~~l~~~~~~~~~~~~~~~~~~A~~~~~~a~~~~  198 (212)
+T 3RJV_A          162 GYAEYWAGMMFQQGEKGFIEPNKQKALHWLNVSCLEG  198 (212)
+T ss_dssp             THHHHHHHHHHHHCBTTTBCCCHHHHHHHHHHHHHHT
+T ss_pred             hhHHHHHHHHHHhCCCCCCCCCHHHHHHHHHHHHHcC
+Confidence            566777877776543  24557788888888876653
+
+
+No 39
+>1KLX_A Cysteine Rich Protein B; Structural Genomics, helix-turn-helix, right handed; 1.95A {Helicobacter pylori} SCOP: a.118.18.1
+Probab=32.90  E-value=37  Score=31.38  Aligned_cols=84  Identities=8%  Similarity=0.127  Sum_probs=65.9  Template_Neff=12.600
+
+Q sp|O76024|WFS1   78 GPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITS  157 (890)
+Q Consensus        78 ~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~  157 (890)
+                      +... +.+.+.++++++++.+++.++..++.      ..   ..+..+|..|+.++++.++..+...++.++..+.+...
+T Consensus         6 ~~~~-~~~~a~~~~~~a~~~~~~~~~~~l~~------~~---~~~~~~a~~~~~~a~~~~~~~~~~~l~~~~~~~~~~~~   75 (138)
+T 1KLX_A            6 TVKK-DLKKAIQYYVKACELNEMFGCLSLVS------NS---QINKQKLFQYLSKACELNSGNGCRFLGDFYENGKYVKK   75 (138)
+T ss_pred             CCcC-CHHHHHHHHHHHHHcCCHHHHHHHHh------hh---cCCHHHHHHHHHHHHHhCCHHHHHHHHHHHHcCCCCCC
+Confidence            3444 78889999999999888877776665      22   36778899999999999999999989998887766667
+
+
+Q sp|O76024|WFS1  158 ENEREVRQLSSETD  171 (890)
+Q Consensus       158 ~n~~~v~~~~~~s~  171 (890)
+                      +..++.+++.+..+
+T Consensus        76 ~~~~a~~~~~~~~~   89 (138)
+T 1KLX_A           76 DLRKAAQYYSKACG   89 (138)
+T ss_pred             CHHHHHHHHHHHHH
+Confidence            77788888766654
+
+
+No 40
+>3E4B_B AlgK; AlgK, tetratricopeptide repeat, superhelix, alginate; HET: GOL; 2.5A {Pseudomonas fluorescens}
+Probab=30.95  E-value=42  Score=38.31  Aligned_cols=84  Identities=19%  Similarity=0.094  Sum_probs=53.9  Template_Neff=12.800
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRG-ITSENER  161 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~G-It~~n~~  161 (890)
+                      +.+.+.++++++.+.+++.+...++..+.....    ..+..+|..++.++.+ ++..+...++.++..+.+ ..++.++
+T Consensus        18 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~----~~~~~~A~~~~~~~~~-~~~~~~~~l~~~~~~~~~~~~~~~~~   92 (452)
+T 3E4B_B           18 DTVTAQQNYQQLAELGYSEAQVGLADIQVGTRD----PAQIKQAEATYRAAAD-TSPRAQARLGRLLAAKPGATEAEHHE   92 (452)
+T ss_dssp             HHHHHHHHHHHHHHHTCCHHHHTCCCC-------------CHHHHHHHHHHTT-TCHHHHHHHHHHHHHCTTCCHHHHHH
+T ss_pred             CHHHHHHHHHHHHHcCCHHHHHHHHHHHcCCCC----hHHHHHHHHHHHHHHc-CCHHHHHHHHHHHHhCCCCCcccHHH
+Confidence            567788888888877788888888888862111    1466788888888876 666777777777765321 1345667
+
+
+Q sp|O76024|WFS1  162 EVRQLSSETD  171 (890)
+Q Consensus       162 ~v~~~~~~s~  171 (890)
+                      |.+++.++.+
+T Consensus        93 A~~~~~~~~~  102 (452)
+T 3E4B_B           93 AESLLKKAFA  102 (452)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHH
+Confidence            7777665543
+
+
+No 41
+>3E4B_A AlgK; AlgK, tetratricopeptide repeat, superhelix, alginate; HET: GOL; 2.5A {Pseudomonas fluorescens}
+Probab=30.95  E-value=42  Score=38.31  Aligned_cols=84  Identities=19%  Similarity=0.094  Sum_probs=38.7  Template_Neff=12.800
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRG-ITSENER  161 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~G-It~~n~~  161 (890)
+                      +.+.+.++++++.+.+++.+...++..+.....    ..+..+|..++.++.+ ++..+...++.++..+.+ ..++.++
+T Consensus        18 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~----~~~~~~A~~~~~~~~~-~~~~~~~~l~~~~~~~~~~~~~~~~~   92 (452)
+T 3E4B_A           18 DTVTAQQNYQQLAELGYSEAQVGLADIQVGTRD----PAQIKQAEATYRAAAD-TSPRAQARLGRLLAAKPGATEAEHHE   92 (452)
+T ss_dssp             HHHHHHHHHHHHHHHTCCTGGGTCC---------------------------------CHHHHHHHHHTC--CCHHHHHH
+T ss_pred             CHHHHHHHHHHHHHcCCHHHHHHHHHHHcCCCC----hHHHHHHHHHHHHHHc-CCHHHHHHHHHHHHhCCCCCcccHHH
+Confidence            567788888888877788888888888862111    1466788888888876 666777777777765321 1345667
+
+
+Q sp|O76024|WFS1  162 EVRQLSSETD  171 (890)
+Q Consensus       162 ~v~~~~~~s~  171 (890)
+                      |.+++.++.+
+T Consensus        93 A~~~~~~~~~  102 (452)
+T 3E4B_A           93 AESLLKKAFA  102 (452)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHH
+Confidence            7777665543
+
+
+No 42
+>6ICZ_J Protein mago nashi homolog 2; Human Post-catalytic Spliceosome, SPLICING; HET: GTP, ATP, SEP, I6P; 3.0A {Homo sapiens}
+Probab=25.64  E-value=60  Score=42.11  Aligned_cols=16  Identities=6%  Similarity=-0.161  Sum_probs=9.8  Template_Neff=11.300
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAG   98 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~G   98 (890)
+                      +.+.+.+.++++.+.+
+T Consensus       655 ~~~~A~~~~~~a~~~~  670 (848)
+T 6ICZ_J          655 DIDRARAIYELAISQP  670 (848)
+T ss_pred             CHHHHHHHHHHHHHcC
+Confidence            5566666666666544
+
+
+No 43
+>3E4B_B AlgK; AlgK, tetratricopeptide repeat, superhelix, alginate; HET: GOL; 2.5A {Pseudomonas fluorescens}
+Probab=25.09  E-value=62  Score=36.97  Aligned_cols=85  Identities=15%  Similarity=0.061  Sum_probs=52.8  Template_Neff=12.800
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.+.+..+.+++.+...++..+......   ..+..+|..++.++.+.. ..+...++.++..+.+..++.++|
+T Consensus       266 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~-~~~~~~l~~~~~~~~~~~~~~~~A  341 (452)
+T 3E4B_B          266 DVEQMMKYLDNGRAADQPRAELLLGKLYYEGKWV---PADAKAAEAHFEKAVGRE-VAADYYLGQIYRRGYLGKVYPQKA  341 (452)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHCSSS---CCCHHHHHHHHHTTBTTB-SHHHHHHHHHHHHTTTSSCCHHHH
+T ss_pred             CHHHHHHHHHHHHhcCCHHHHHHHHHHHHhCCCC---CCCHHHHHHHHHHHHccc-hHHHHHHHHHHHhCCCCCCCHHHH
+Confidence            5667777787777766777777777777654211   125566777777766554 555566666665533334566666
+
+
+Q sp|O76024|WFS1  163 VRQLSSETD  171 (890)
+Q Consensus       163 v~~~~~~s~  171 (890)
+                      .+++.++.+
+T Consensus       342 ~~~~~~~~~  350 (452)
+T 3E4B_B          342 LDHLLTAAR  350 (452)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHH
+Confidence            666666544
+
+
+No 44
+>3E4B_A AlgK; AlgK, tetratricopeptide repeat, superhelix, alginate; HET: GOL; 2.5A {Pseudomonas fluorescens}
+Probab=25.02  E-value=63  Score=36.95  Aligned_cols=85  Identities=15%  Similarity=0.061  Sum_probs=52.9  Template_Neff=12.800
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.+.+..+.+++.+...++..+......   ..+..+|..++.++.+.+ ..+...++.++..+.+..++.++|
+T Consensus       266 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~-~~~~~~l~~~~~~~~~~~~~~~~A  341 (452)
+T 3E4B_A          266 DVEQMMKYLDNGRAADQPRAELLLGKLYYEGKWV---PADAKAAEAHFEKAVGRE-VAADYYLGQIYRRGYLGKVYPQKA  341 (452)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHCSSS---CCCHHHHHHHHHTTTTTC-HHHHHHHHHHHHTTTTSSCCHHHH
+T ss_pred             CHHHHHHHHHHHHhcCCHHHHHHHHHHHHhCCCC---CCCHHHHHHHHHHHHccc-hHHHHHHHHHHHhCCCCCCCHHHH
+Confidence            5667777787777766777777777777654211   125566777777766554 555566666665533334566666
+
+
+Q sp|O76024|WFS1  163 VRQLSSETD  171 (890)
+Q Consensus       163 v~~~~~~s~  171 (890)
+                      .+++.++.+
+T Consensus       342 ~~~~~~~~~  350 (452)
+T 3E4B_A          342 LDHLLTAAR  350 (452)
+T ss_dssp             HHHHHHHHT
+T ss_pred             HHHHHHHHH
+Confidence            666666544
+
+
+No 45
+>5V7V_A ERAD-associated E3 ubiquitin-protein ligase component; Hrd3 ERAD, PROTEIN TRANSPORT; HET: NAG, BMA;{Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=24.29  E-value=66  Score=42.50  Aligned_cols=31  Identities=19%  Similarity=0.151  Sum_probs=15.5  Template_Neff=9.700
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQL  113 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~  113 (890)
+                      |.++|..+|+++++.+++.++..+|..|..+
+T Consensus       170 d~~kA~~~~~~a~~~~~~~a~~~la~~~~~~  200 (818)
+T 5V7V_A          170 DSAKALLYYQRAAQLGNLKAKQVLAYKYYSG  200 (818)
+T ss_dssp             CHHHHHHHHHHHHHHTCHHHHHHHHHHHHHT
+T ss_pred             CHHHHHHHHHHHHHCCCHHHHHHHHHHHHcC
+Confidence            3444555555555555555555555554443
+
+
+No 46
+>5V7V_A ERAD-associated E3 ubiquitin-protein ligase component; Hrd3 ERAD, PROTEIN TRANSPORT; HET: NAG, BMA;{Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=23.90  E-value=68  Score=42.39  Aligned_cols=82  Identities=13%  Similarity=0.007  Sum_probs=35.3  Template_Neff=9.700
+
+Q sp|O76024|WFS1   87 PFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENEREVRQL  166 (890)
+Q Consensus        87 ~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~v~~~  166 (890)
+                      +.+.++++.+.++..++..+|..+..+...   ..+..+|..++.++.+.+...+...+...+..  ...++.++|...+
+T Consensus       469 A~~~~~~a~~~~~~~a~~~la~~~~~~~~~---~~~~~~A~~~~~~a~~~~~~~~~~~l~~a~~~--~~~g~~~~Al~~~  543 (818)
+T 5V7V_A          469 PFNLMETAYLNGFIPAIYEFAVMIESGMNS---KSSVENTAYLFKTFVDKNEAIMAPKLRTAFAA--LINDRSEVALWAY  543 (818)
+T ss_dssp             HHHHHHHHHTTTCSHHHHHHHHHHHHCSSC---CSCSHHHHHHHHHHHHHHCSSSCTTHHHHHHH--HHSSCHHHHHHHH
+T ss_pred             HHHHHHHHHHCCCHHHHHHHHHHHHhCCCC---cccHHHHHHHHHHHHHhChhcchHHHHHHHHH--HHCCCHHHHHHHH
+Confidence            333333333334444444444444432111   13444555555555554433333222222211  1124566677777
+
+
+Q sp|O76024|WFS1  167 SSETDLE  173 (890)
+Q Consensus       167 ~~~s~~E  173 (890)
+                      .++.+.+
+T Consensus       544 ~~a~e~~  550 (818)
+T 5V7V_A          544 SQLAEQG  550 (818)
+T ss_dssp             HHHTTTT
+T ss_pred             HHHHHCC
+Confidence            6665543
+
+
+No 47
+>4A1S_B PARTNER OF INSCUTEABLE, RE60102P; CELL CYCLE, LGN, MITOTIC SPINDLE; 2.1A {DROSOPHILA MELANOGASTER}
+Probab=23.52  E-value=70  Score=36.40  Aligned_cols=61  Identities=11%  Similarity=0.086  Sum_probs=33.5  Template_Neff=12.400
+
+Q sp|O76024|WFS1   63 PQAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDP------KAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAK  135 (890)
+Q Consensus        63 ~~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~------~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~  135 (890)
+                      ......++..+....     +.+.+.+.+++..+.+..      .+...+|..|...       .+..+|..++.++.+
+T Consensus        48 ~~~~~~~a~~~~~~g-----~~~~A~~~~~~~l~~~~~~~~~~~~~~~~l~~~~~~~-------~~~~~A~~~~~~a~~  114 (411)
+T 4A1S_B           48 CLELALEGERLCNAG-----DCRAGVAFFQAAIQAGTEDLRTLSAIYSQLGNAYFYL-------GDYNKAMQYHKHDLT  114 (411)
+T ss_dssp             HHHHHHHHHHHHHTT-----CHHHHHHHHHHHHHHCCSCHHHHHHHHHHHHHHHHHT-------TCHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHcC-----CHHHHHHHHHHHHHhccCCHHHHHHHHHHHHHHHHHC-------CCHHHHHHHHHHHHH
+Confidence            345555565554422     566677777776654321      1445566655543       345567777666554
+
+
+No 48
+>5B26_A Protein sel-1 homolog 1; SEL1L, SLR motif, ERAD, SIGNALING; 2.6A {Mus musculus}
+Probab=21.95  E-value=78  Score=30.65  Aligned_cols=91  Identities=20%  Similarity=0.233  Sum_probs=65.3  Template_Neff=13.000
+
+Q sp|O76024|WFS1   62 EPQAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREA  141 (890)
+Q Consensus        62 ~~~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A  141 (890)
+                      .+.+...++..+..+.+... +.+.+.+++.++++.+++.++..+|..+..+...   ..+..+|..|+.++.+.++..+
+T Consensus        95 ~~~~~~~l~~~~~~~~~~~~-~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~  170 (186)
+T 5B26_A           95 NPVGQSGLGMAYLYGRGVQV-NYDLALKYFQKAAEQGWVDGQLQLGSMYYNGIGV---KRDYKQALKYFNLASQGGHILA  170 (186)
+T ss_dssp             CHHHHHHHHHHHHTTSSSCC-CHHHHHHHHHHHHHTTCHHHHHHHHHHHHTTSSS---SCCHHHHHHHHHHHHTTSSTTH
+T ss_pred             CHHHHHHHHHHHHhCCCCCC-CHHHHHHHHHHHHHCCCHHHHHHHHHHHHhCCCC---CCCHHHHHHHHHHHHcCCChHH
+Confidence            44566777777665432233 6778899999999888889999999998874332   2677899999999999999999
+
+
+Q sp|O76024|WFS1  142 VKLLRRCLADRRGIT  156 (890)
+Q Consensus       142 ~~lL~~c~~~~~GIt  156 (890)
+                      ...++.++..+.|++
+T Consensus       171 ~~~l~~~~~~~~~~~  185 (186)
+T 5B26_A          171 FYNLAQMHASGTGVM  185 (186)
+T ss_dssp             HHHHTCC--------
+T ss_pred             HHHHHHHHHhCCCCC
+Confidence            999999988876653
+
+
+No 49
+>5B26_C Protein sel-1 homolog 1; SEL1L, SLR motif, ERAD, SIGNALING; 2.6A {Mus musculus}
+Probab=21.95  E-value=78  Score=30.65  Aligned_cols=91  Identities=20%  Similarity=0.233  Sum_probs=65.3  Template_Neff=13.000
+
+Q sp|O76024|WFS1   62 EPQAQHTRSRERADGTGPTKGDMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREA  141 (890)
+Q Consensus        62 ~~~a~~~~~~~~~~~~~~~~~~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A  141 (890)
+                      .+.+...++..+..+.+... +.+.+.+++.++++.+++.++..+|..+..+...   ..+..+|..|+.++.+.++..+
+T Consensus        95 ~~~~~~~l~~~~~~~~~~~~-~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~~~~---~~~~~~A~~~~~~~~~~~~~~~  170 (186)
+T 5B26_C           95 NPVGQSGLGMAYLYGRGVQV-NYDLALKYFQKAAEQGWVDGQLQLGSMYYNGIGV---KRDYKQALKYFNLASQGGHILA  170 (186)
+T ss_dssp             CHHHHHHHHHHHHHTSSSCC-CHHHHHHHHHHHHHTTCHHHHHHHHHHHHTTSSS---SCCHHHHHHHHHHHHTTSSTTH
+T ss_pred             CHHHHHHHHHHHHhCCCCCC-CHHHHHHHHHHHHHCCCHHHHHHHHHHHHhCCCC---CCCHHHHHHHHHHHHcCCChHH
+Confidence            44566777777665432233 6778899999999888889999999998874332   2677899999999999999999
+
+
+Q sp|O76024|WFS1  142 VKLLRRCLADRRGIT  156 (890)
+Q Consensus       142 ~~lL~~c~~~~~GIt  156 (890)
+                      ...++.++..+.|++
+T Consensus       171 ~~~l~~~~~~~~~~~  185 (186)
+T 5B26_C          171 FYNLAQMHASGTGVM  185 (186)
+T ss_dssp             HHHHTTC--------
+T ss_pred             HHHHHHHHHhCCCCC
+Confidence            999999988876653
+
+
+No 50
+>3E4B_B AlgK; AlgK, tetratricopeptide repeat, superhelix, alginate; HET: GOL; 2.5A {Pseudomonas fluorescens}
+Probab=21.68  E-value=80  Score=36.11  Aligned_cols=83  Identities=12%  Similarity=0.082  Sum_probs=39.4  Template_Neff=12.800
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.+.++.+.++..+...++..|......    .+..++.+.+.++.+.++..+...++.++... +...+..++
+T Consensus        89 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~----~~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~-~~~~~~~~a  163 (452)
+T 3E4B_B           89 EHHEAESLLKKAFANGEGNTLIPLAMLYLQYPHS----FPNVNAQQQISQWQAAGYPEAGLAQVLLYRTQ-GTYDQHLDD  163 (452)
+T ss_dssp             HHHHHHHHHHHHHHHTCSSCHHHHHHHHHHCGGG----CTTCCHHHHHHHHHHTTCTTHHHHHHHHHHHT-TCGGGGHHH
+T ss_pred             cHHHHHHHHHHHHHCCCcccHHHHHHHHHhCCCC----CCCCCHHHHHHHHHHcCCHHHHHHHHHHHHhc-CCcchhHHH
+Confidence            4566667776666666666666666666543211    11123333344443334444444444443211 222445555
+
+
+Q sp|O76024|WFS1  163 VRQLSSET  170 (890)
+Q Consensus       163 v~~~~~~s  170 (890)
+                      .+.+.+..
+T Consensus       164 ~~~~~~~~  171 (452)
+T 3E4B_B          164 VERICKAA  171 (452)
+T ss_dssp             HHHHHHHH
+T ss_pred             HHHHHHHH
+Confidence            55555543
+
+
+No 51
+>3E4B_A AlgK; AlgK, tetratricopeptide repeat, superhelix, alginate; HET: GOL; 2.5A {Pseudomonas fluorescens}
+Probab=21.67  E-value=80  Score=36.11  Aligned_cols=83  Identities=12%  Similarity=0.082  Sum_probs=39.4  Template_Neff=12.800
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENERE  162 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~~  162 (890)
+                      +.+.+.+.+.++.+.++..+...++..|......    .+..++.+.+.++.+.++..+...++.++... +...+..++
+T Consensus        89 ~~~~A~~~~~~~~~~~~~~~~~~l~~~~~~~~~~----~~~~~a~~~~~~~~~~~~~~~~~~l~~~~~~~-~~~~~~~~a  163 (452)
+T 3E4B_A           89 EHHEAESLLKKAFANGEGNTLIPLAMLYLQYPHS----FPNVNAQQQISQWQAAGYPEAGLAQVLLYRTQ-GTYDQHLDD  163 (452)
+T ss_dssp             HHHHHHHHHHHHHHTTCSSCHHHHHHHHHHCGGG----CTTCCHHHHHHHHHHHTCTTHHHHHHHHHHHH-TCGGGGHHH
+T ss_pred             cHHHHHHHHHHHHHCCCcccHHHHHHHHHhCCCC----CCCCCHHHHHHHHHHcCCHHHHHHHHHHHHhc-CCcchhHHH
+Confidence            4566667776666666666666666666543211    11123333344443334444444444443211 222445555
+
+
+Q sp|O76024|WFS1  163 VRQLSSET  170 (890)
+Q Consensus       163 v~~~~~~s  170 (890)
+                      .+.+.+..
+T Consensus       164 ~~~~~~~~  171 (452)
+T 3E4B_A          164 VERICKAA  171 (452)
+T ss_dssp             HHHHHHHH
+T ss_pred             HHHHHHHH
+Confidence            55555543
+
+
+No 52
+>5ZZ8_t VP19C, VP23, Major capsid protein; Herpes simplex virus 2, capsid; 3.75A {Human herpesvirus 2}
+Probab=21.22  E-value=83  Score=47.99  Aligned_cols=7  Identities=14%  Similarity=0.140  Sum_probs=3.4  Template_Neff=5.600
+
+Q sp|O76024|WFS1  256 KGVIPSS  262 (890)
+Q Consensus       256 ~G~~P~~  262 (890)
+                      -|.+|..
+T Consensus      3082 ~~l~~r~ 3088 (3122)
+T 5ZZ8_t         3082 LAVLIRA 3088 (3122)
+T ss_pred             HHHHHHH
+Confidence            3555543
+
+
+No 53
+>3O48_A Mitochondria fission 1 protein; tetratricopeptide repeat fold, TPR, scaffold; 1.75A {Saccharomyces cerevisiae}
+Probab=20.89  E-value=85  Score=30.32  Aligned_cols=82  Identities=15%  Similarity=0.085  Sum_probs=45.2  Template_Neff=10.900
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAK-AGDPKAQTEVGKHYLQLAGDTDEELNSCTAVDWLVLAAKQG---RREAVKLLRRCLADRRGITSE  158 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~-~Gd~~aQ~~lg~~yl~~~~~~d~e~n~~~Av~Wl~kAa~qG---~~~A~~lL~~c~~~~~GIt~~  158 (890)
+                      +.+.+.+.+.+..+ ..+..+...+|..+......    .+..+|..++.++.+.+   +.++...++.++...    ++
+T Consensus        22 ~~~~A~~~~~~~~~~~~~~~~~~~la~~~~~~~~~----~~~~~A~~~~~~~~~~~p~~~~~~~~~l~~~~~~~----~~   93 (134)
+T 3O48_A           22 QLEILRQQVVSEGGPTATIQSRFNYAWGLIKSTDV----NDERLGVKILTDIYKEAESRRRECLYYLTIGCYKL----GE   93 (134)
+T ss_dssp             HHHHHHHHHHHTTGGGSCHHHHHHHHHHHHHSSCH----HHHHHHHHHHHHHHHHCGGGHHHHHHHHHHHHHHH----TC
+T ss_pred             HHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHCCCc----ccHHHHHHHHHHHHHHCHHHHHHHHHHHHHHHHHc----CC
+Confidence            45556666666553 34455667777776642100    24456777777766543   344445555555332    45
+
+
+Q sp|O76024|WFS1  159 NEREVRQLSSETDL  172 (890)
+Q Consensus       159 n~~~v~~~~~~s~~  172 (890)
+                      ..+|.+++.+..+.
+T Consensus        94 ~~~A~~~~~~~l~~  107 (134)
+T 3O48_A           94 YSMAKRYVDTLFEH  107 (134)
+T ss_dssp             HHHHHHHHHHHHTT
+T ss_pred             HHHHHHHHHHHHHh
+Confidence            66666666555443
+
+
+No 54
+>5JKP_A Uncharacterized protein; immunity protein, IMMUNE SYSTEM; 2.106A {Pseudomonas aeruginosa PAO1}
+Probab=20.49  E-value=88  Score=33.40  Aligned_cols=80  Identities=21%  Similarity=0.260  Sum_probs=62.9  Template_Neff=12.100
+
+Q sp|O76024|WFS1   83 DMEIPFEEVLERAKAGDPKAQTEVGKHYL-QLAGDTDEELNSCTAVDWLVLAAKQGRREAVKLLRRCLADRRGITSENER  161 (890)
+Q Consensus        83 ~~~~~~e~~~~~A~~Gd~~aQ~~lg~~yl-~~~~~~d~e~n~~~Av~Wl~kAa~qG~~~A~~lL~~c~~~~~GIt~~n~~  161 (890)
+                      +.+.+.+++.++++.++..+...+|..+. ..       .+..+|..++.++.+.++..+...++.++..+     +..+
+T Consensus       145 ~~~~A~~~~~~a~~~~~~~~~~~l~~~~~~~~-------~~~~~A~~~~~~a~~~~~~~~~~~l~~~~~~g-----~~~~  212 (270)
+T 5JKP_A          145 EKELGLAYASCASSQGYAPASYELGSYYELVE-------NNYPKALSYYQVSVSQGGRSAAFFLSRVFGKR-----TPPS  212 (270)
+T ss_dssp             CHHHHHHHHHHHHHTTCHHHHHHHHHHHHHTS-------CCHHHHHHHHHHHHHTTCHHHHHHHHHHTCTT-----SCTT
+T ss_pred             cHHHHHHHHHHHHHCCCHHHHHHHHHHHHHcc-------CcHHHHHHHHHHHHHcCCHHHHHHHHHHHhcC-----CCCc
+Confidence            56778899999988888888999998887 32       56778999999999999988888888888543     4566
+
+
+Q sp|O76024|WFS1  162 EVRQLSSETDLER  174 (890)
+Q Consensus       162 ~v~~~~~~s~~Ek  174 (890)
+                      |..++.+..+..+
+T Consensus       213 A~~~~~~~~~~~~  225 (270)
+T 5JKP_A          213 SAMWYTPDEKLEK  225 (270)
+T ss_dssp             TTTTCCCCHHHHH
+T ss_pred             hHHHhcCChhhHH
+Confidence            7777776655443
+
+
+No 55
+>6U42_6O Tubulin beta, Tubulin alpha, PACRG; motile cilia, microtubule doublet, repetitive; HET: GDP, GTP, MG; 3.4A {Chlamydomonas reinhardtii}
+Probab=20.42  E-value=88  Score=36.71  Aligned_cols=27  Identities=11%  Similarity=0.122  Sum_probs=14.1  Template_Neff=9.700
+
+Q sp|O76024|WFS1  180 ALVMYWKLNPKKKKQVAVAELLENVGQ  206 (890)
+Q Consensus       180 A~~mf~~L~~~~k~~v~~~el~e~v~~  206 (890)
+                      .+.+|..+...+...|+..|+...+..
+T Consensus       290 l~~~F~~~D~~~~G~Is~~el~~~l~~  316 (352)
+T 6U42_6O         290 LERLLKAFDSAGNGQVSRHDLVAGCAS  316 (352)
+T ss_pred             HHHHHHHHCCCCCCeeeHHHHHHHHHH
+Confidence            344555555444455666666555444
+
+
