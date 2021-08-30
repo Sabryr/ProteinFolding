@@ -1,0 +1,32 @@
+- 00:46:56.038 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-30.a3m
+
+- 00:46:56.039 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-30.id90cov75.a3m
+
+- 00:46:56.077 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-30.a3m
+
+- 00:46:56.077 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-30.id90cov50.a3m
+
+- 00:58:10.343 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-10.a3m
+
+- 00:58:10.343 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-10.id90cov75.a3m
+
+- 00:58:10.388 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-10.a3m
+
+- 00:58:10.388 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-10.id90cov50.a3m
+
+- 01:09:33.628 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-6.a3m
+
+- 01:09:33.628 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-6.id90cov75.a3m
+
+- 01:09:33.676 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-6.a3m
+
+- 01:09:33.676 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-6.id90cov50.a3m
+
+- 01:24:30.893 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-3.a3m
+
+- 01:24:30.894 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-3.id90cov75.a3m
+
+- 01:24:30.975 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-3.a3m
+
+- 01:24:30.975 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-O76024/hhblits/t000_.1e-3.id90cov50.a3m
+
