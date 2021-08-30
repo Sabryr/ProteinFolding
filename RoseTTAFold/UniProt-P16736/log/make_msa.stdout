@@ -1,0 +1,5 @@
+hhblits -o /dev/null -mact 0.35 -maxfilt 100000000 -neffmax 20 -cov 25 -cpu 96 -nodiff -realign_max 100000000 -maxseq 1000000 -maxmem 1024000 -n 4 -d /cluster/software/RoseTTAFold/1.0.0.2/RoseTTAFold/UniRef30_2020_06/UniRef30_2020_06 -d /cluster/software/RoseTTAFold/1.0.0.2/RoseTTAFold/bfd/bfd_metaclust_clu_complete_id30_c90_final_seq.sorted_opt
+1e-30
+1e-10
+1e-6
+1e-3

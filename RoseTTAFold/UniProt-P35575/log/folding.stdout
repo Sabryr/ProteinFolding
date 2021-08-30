@@ -1,0 +1,1622 @@
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_1_0.05.pdb', bb='', fastrelax=True, mode=1, nrestarts=3, pcut=0.05, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium
+Number of applied pair restraints: 27397
+ - Distance restraints: 5416
+ - Omega restraints: 4454
+ - Theta restraints: 8892
+ - Phi restraints:   8635
+long
+Number of applied pair restraints: 78607
+ - Distance restraints: 21842
+ - Omega restraints: 11890
+ - Theta restraints: 23411
+ - Phi restraints:   21464
+Energy(iter=0): 99999.9 --> -276812.4 (accept)
+short + medium
+Number of applied pair restraints: 27397
+ - Distance restraints: 5416
+ - Omega restraints: 4454
+ - Theta restraints: 8892
+ - Phi restraints:   8635
+long
+Number of applied pair restraints: 78607
+ - Distance restraints: 21842
+ - Omega restraints: 11890
+ - Theta restraints: 23411
+ - Phi restraints:   21464
+Energy(iter=1): -276812.4 --> -277824.6 (accept)
+short + medium
+Number of applied pair restraints: 27397
+ - Distance restraints: 5416
+ - Omega restraints: 4454
+ - Theta restraints: 8892
+ - Phi restraints:   8635
+long
+Number of applied pair restraints: 78607
+ - Distance restraints: 21842
+ - Omega restraints: 11890
+ - Theta restraints: 23411
+ - Phi restraints:   21464
+Energy(iter=2): -277824.6 --> -277850.9 (accept)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_1_0.25.pdb', bb='', fastrelax=True, mode=1, nrestarts=3, pcut=0.25, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium
+Number of applied pair restraints: 25335
+ - Distance restraints: 4837
+ - Omega restraints: 4187
+ - Theta restraints: 8341
+ - Phi restraints:   7970
+long
+Number of applied pair restraints: 61655
+ - Distance restraints: 15582
+ - Omega restraints: 9871
+ - Theta restraints: 19346
+ - Phi restraints:   16856
+Energy(iter=0): 99999.9 --> -250462.2 (accept)
+short + medium
+Number of applied pair restraints: 25335
+ - Distance restraints: 4837
+ - Omega restraints: 4187
+ - Theta restraints: 8341
+ - Phi restraints:   7970
+long
+Number of applied pair restraints: 61655
+ - Distance restraints: 15582
+ - Omega restraints: 9871
+ - Theta restraints: 19346
+ - Phi restraints:   16856
+Energy(iter=1): -250462.2 --> -251347.4 (accept)
+short + medium
+Number of applied pair restraints: 25335
+ - Distance restraints: 4837
+ - Omega restraints: 4187
+ - Theta restraints: 8341
+ - Phi restraints:   7970
+long
+Number of applied pair restraints: 61655
+ - Distance restraints: 15582
+ - Omega restraints: 9871
+ - Theta restraints: 19346
+ - Phi restraints:   16856
+Energy(iter=2): -251347.4 --> -250767.5 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_1_0.35.pdb', bb='', fastrelax=True, mode=1, nrestarts=3, pcut=0.35, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium
+Number of applied pair restraints: 23906
+ - Distance restraints: 4683
+ - Omega restraints: 4005
+ - Theta restraints: 7965
+ - Phi restraints:   7253
+long
+Number of applied pair restraints: 51927
+ - Distance restraints: 14062
+ - Omega restraints: 8602
+ - Theta restraints: 16798
+ - Phi restraints:   12465
+Energy(iter=0): 99999.9 --> -226808.8 (accept)
+short + medium
+Number of applied pair restraints: 23906
+ - Distance restraints: 4683
+ - Omega restraints: 4005
+ - Theta restraints: 7965
+ - Phi restraints:   7253
+long
+Number of applied pair restraints: 51927
+ - Distance restraints: 14062
+ - Omega restraints: 8602
+ - Theta restraints: 16798
+ - Phi restraints:   12465
+Energy(iter=1): -226808.8 --> -227288.2 (accept)
+short + medium
+Number of applied pair restraints: 23906
+ - Distance restraints: 4683
+ - Omega restraints: 4005
+ - Theta restraints: 7965
+ - Phi restraints:   7253
+long
+Number of applied pair restraints: 51927
+ - Distance restraints: 14062
+ - Omega restraints: 8602
+ - Theta restraints: 16798
+ - Phi restraints:   12465
+Energy(iter=2): -227288.2 --> -226538.7 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_1_0.15.pdb', bb='', fastrelax=True, mode=1, nrestarts=3, pcut=0.15, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium
+Number of applied pair restraints: 26357
+ - Distance restraints: 5031
+ - Omega restraints: 4338
+ - Theta restraints: 8641
+ - Phi restraints:   8347
+long
+Number of applied pair restraints: 69534
+ - Distance restraints: 17825
+ - Omega restraints: 10915
+ - Theta restraints: 21460
+ - Phi restraints:   19334
+Energy(iter=0): 99999.9 --> -263181.4 (accept)
+short + medium
+Number of applied pair restraints: 26357
+ - Distance restraints: 5031
+ - Omega restraints: 4338
+ - Theta restraints: 8641
+ - Phi restraints:   8347
+long
+Number of applied pair restraints: 69534
+ - Distance restraints: 17825
+ - Omega restraints: 10915
+ - Theta restraints: 21460
+ - Phi restraints:   19334
+Energy(iter=1): -263181.4 --> -264704.4 (accept)
+short + medium
+Number of applied pair restraints: 26357
+ - Distance restraints: 5031
+ - Omega restraints: 4338
+ - Theta restraints: 8641
+ - Phi restraints:   8347
+long
+Number of applied pair restraints: 69534
+ - Distance restraints: 17825
+ - Omega restraints: 10915
+ - Theta restraints: 21460
+ - Phi restraints:   19334
+Energy(iter=2): -264704.4 --> -264805.5 (accept)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_2_0.45.pdb', bb='', fastrelax=True, mode=2, nrestarts=3, pcut=0.45, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium + long
+Number of applied pair restraints: 46868
+ - Distance restraints: 17388
+ - Omega restraints: 9988
+ - Theta restraints: 19492
+ - Phi restraints:   0
+Energy(iter=0): 99999.9 --> -145625.8 (accept)
+short + medium + long
+Number of applied pair restraints: 46868
+ - Distance restraints: 17388
+ - Omega restraints: 9988
+ - Theta restraints: 19492
+ - Phi restraints:   0
+Energy(iter=1): -145625.8 --> -147128.9 (accept)
+short + medium + long
+Number of applied pair restraints: 46868
+ - Distance restraints: 17388
+ - Omega restraints: 9988
+ - Theta restraints: 19492
+ - Phi restraints:   0
+Energy(iter=2): -147128.9 --> -147143.8 (accept)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_0_0.25.pdb', bb='', fastrelax=True, mode=0, nrestarts=3, pcut=0.25, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short
+Number of applied pair restraints: 18073
+ - Distance restraints: 3103
+ - Omega restraints: 3016
+ - Theta restraints: 6020
+ - Phi restraints:   5934
+medium
+Number of applied pair restraints: 7262
+ - Distance restraints: 1734
+ - Omega restraints: 1171
+ - Theta restraints: 2321
+ - Phi restraints:   2036
+long
+Number of applied pair restraints: 61655
+ - Distance restraints: 15582
+ - Omega restraints: 9871
+ - Theta restraints: 19346
+ - Phi restraints:   16856
+Energy(iter=0): 99999.9 --> -249212.1 (accept)
+short
+Number of applied pair restraints: 18073
+ - Distance restraints: 3103
+ - Omega restraints: 3016
+ - Theta restraints: 6020
+ - Phi restraints:   5934
+medium
+Number of applied pair restraints: 7262
+ - Distance restraints: 1734
+ - Omega restraints: 1171
+ - Theta restraints: 2321
+ - Phi restraints:   2036
+long
+Number of applied pair restraints: 61655
+ - Distance restraints: 15582
+ - Omega restraints: 9871
+ - Theta restraints: 19346
+ - Phi restraints:   16856
+Energy(iter=1): -249212.1 --> -249369.5 (accept)
+short
+Number of applied pair restraints: 18073
+ - Distance restraints: 3103
+ - Omega restraints: 3016
+ - Theta restraints: 6020
+ - Phi restraints:   5934
+medium
+Number of applied pair restraints: 7262
+ - Distance restraints: 1734
+ - Omega restraints: 1171
+ - Theta restraints: 2321
+ - Phi restraints:   2036
+long
+Number of applied pair restraints: 61655
+ - Distance restraints: 15582
+ - Omega restraints: 9871
+ - Theta restraints: 19346
+ - Phi restraints:   16856
+Energy(iter=2): -249369.5 --> -249675.8 (accept)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_1_0.45.pdb', bb='', fastrelax=True, mode=1, nrestarts=3, pcut=0.45, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium
+Number of applied pair restraints: 15427
+ - Distance restraints: 4558
+ - Omega restraints: 3643
+ - Theta restraints: 7226
+ - Phi restraints:   0
+long
+Number of applied pair restraints: 31441
+ - Distance restraints: 12830
+ - Omega restraints: 6345
+ - Theta restraints: 12266
+ - Phi restraints:   0
+Energy(iter=0): 99999.9 --> -142467.7 (accept)
+short + medium
+Number of applied pair restraints: 15427
+ - Distance restraints: 4558
+ - Omega restraints: 3643
+ - Theta restraints: 7226
+ - Phi restraints:   0
+long
+Number of applied pair restraints: 31441
+ - Distance restraints: 12830
+ - Omega restraints: 6345
+ - Theta restraints: 12266
+ - Phi restraints:   0
+Energy(iter=1): -142467.7 --> -145654.4 (accept)
+short + medium
+Number of applied pair restraints: 15427
+ - Distance restraints: 4558
+ - Omega restraints: 3643
+ - Theta restraints: 7226
+ - Phi restraints:   0
+long
+Number of applied pair restraints: 31441
+ - Distance restraints: 12830
+ - Omega restraints: 6345
+ - Theta restraints: 12266
+ - Phi restraints:   0
+Energy(iter=2): -145654.4 --> -140644.5 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+idealize 143   81.092
+idealize 144   81.143
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_0_0.45.pdb', bb='', fastrelax=True, mode=0, nrestarts=3, pcut=0.45, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short
+Number of applied pair restraints: 11640
+ - Distance restraints: 3075
+ - Omega restraints: 2859
+ - Theta restraints: 5706
+ - Phi restraints:   0
+medium
+Number of applied pair restraints: 3787
+ - Distance restraints: 1483
+ - Omega restraints: 784
+ - Theta restraints: 1520
+ - Phi restraints:   0
+long
+Number of applied pair restraints: 31441
+ - Distance restraints: 12830
+ - Omega restraints: 6345
+ - Theta restraints: 12266
+ - Phi restraints:   0
+Energy(iter=0): 99999.9 --> -144412.0 (accept)
+short
+Number of applied pair restraints: 11640
+ - Distance restraints: 3075
+ - Omega restraints: 2859
+ - Theta restraints: 5706
+ - Phi restraints:   0
+medium
+Number of applied pair restraints: 3787
+ - Distance restraints: 1483
+ - Omega restraints: 784
+ - Theta restraints: 1520
+ - Phi restraints:   0
+long
+Number of applied pair restraints: 31441
+ - Distance restraints: 12830
+ - Omega restraints: 6345
+ - Theta restraints: 12266
+ - Phi restraints:   0
+Energy(iter=1): -144412.0 --> -144227.0 (reject)
+short
+Number of applied pair restraints: 11640
+ - Distance restraints: 3075
+ - Omega restraints: 2859
+ - Theta restraints: 5706
+ - Phi restraints:   0
+medium
+Number of applied pair restraints: 3787
+ - Distance restraints: 1483
+ - Omega restraints: 784
+ - Theta restraints: 1520
+ - Phi restraints:   0
+long
+Number of applied pair restraints: 31441
+ - Distance restraints: 12830
+ - Omega restraints: 6345
+ - Theta restraints: 12266
+ - Phi restraints:   0
+Energy(iter=2): -144412.0 --> -140737.5 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_2_0.25.pdb', bb='', fastrelax=True, mode=2, nrestarts=3, pcut=0.25, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium + long
+Number of applied pair restraints: 86990
+ - Distance restraints: 20419
+ - Omega restraints: 14058
+ - Theta restraints: 27687
+ - Phi restraints:   24826
+Energy(iter=0): 99999.9 --> -248326.0 (accept)
+short + medium + long
+Number of applied pair restraints: 86990
+ - Distance restraints: 20419
+ - Omega restraints: 14058
+ - Theta restraints: 27687
+ - Phi restraints:   24826
+Energy(iter=1): -248326.0 --> -250685.3 (accept)
+short + medium + long
+Number of applied pair restraints: 86990
+ - Distance restraints: 20419
+ - Omega restraints: 14058
+ - Theta restraints: 27687
+ - Phi restraints:   24826
+Energy(iter=2): -250685.3 --> -250878.8 (accept)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_0_0.35.pdb', bb='', fastrelax=True, mode=0, nrestarts=3, pcut=0.35, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short
+Number of applied pair restraints: 17701
+ - Distance restraints: 3088
+ - Omega restraints: 2973
+ - Theta restraints: 5929
+ - Phi restraints:   5711
+medium
+Number of applied pair restraints: 6205
+ - Distance restraints: 1595
+ - Omega restraints: 1032
+ - Theta restraints: 2036
+ - Phi restraints:   1542
+long
+Number of applied pair restraints: 51927
+ - Distance restraints: 14062
+ - Omega restraints: 8602
+ - Theta restraints: 16798
+ - Phi restraints:   12465
+Energy(iter=0): 99999.9 --> -226500.0 (accept)
+short
+Number of applied pair restraints: 17701
+ - Distance restraints: 3088
+ - Omega restraints: 2973
+ - Theta restraints: 5929
+ - Phi restraints:   5711
+medium
+Number of applied pair restraints: 6205
+ - Distance restraints: 1595
+ - Omega restraints: 1032
+ - Theta restraints: 2036
+ - Phi restraints:   1542
+long
+Number of applied pair restraints: 51927
+ - Distance restraints: 14062
+ - Omega restraints: 8602
+ - Theta restraints: 16798
+ - Phi restraints:   12465
+Energy(iter=1): -226500.0 --> -225199.2 (reject)
+short
+Number of applied pair restraints: 17701
+ - Distance restraints: 3088
+ - Omega restraints: 2973
+ - Theta restraints: 5929
+ - Phi restraints:   5711
+medium
+Number of applied pair restraints: 6205
+ - Distance restraints: 1595
+ - Omega restraints: 1032
+ - Theta restraints: 2036
+ - Phi restraints:   1542
+long
+Number of applied pair restraints: 51927
+ - Distance restraints: 14062
+ - Omega restraints: 8602
+ - Theta restraints: 16798
+ - Phi restraints:   12465
+Energy(iter=2): -226500.0 --> -224896.0 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_2_0.15.pdb', bb='', fastrelax=True, mode=2, nrestarts=3, pcut=0.15, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium + long
+Number of applied pair restraints: 95891
+ - Distance restraints: 22856
+ - Omega restraints: 15253
+ - Theta restraints: 30101
+ - Phi restraints:   27681
+Energy(iter=0): 99999.9 --> -264207.0 (accept)
+short + medium + long
+Number of applied pair restraints: 95891
+ - Distance restraints: 22856
+ - Omega restraints: 15253
+ - Theta restraints: 30101
+ - Phi restraints:   27681
+Energy(iter=1): -264207.0 --> -265457.8 (accept)
+short + medium + long
+Number of applied pair restraints: 95891
+ - Distance restraints: 22856
+ - Omega restraints: 15253
+ - Theta restraints: 30101
+ - Phi restraints:   27681
+Energy(iter=2): -265457.8 --> -265156.4 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_2_0.35.pdb', bb='', fastrelax=True, mode=2, nrestarts=3, pcut=0.35, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium + long
+Number of applied pair restraints: 75833
+ - Distance restraints: 18745
+ - Omega restraints: 12607
+ - Theta restraints: 24763
+ - Phi restraints:   19718
+Energy(iter=0): 99999.9 --> -227512.6 (accept)
+short + medium + long
+Number of applied pair restraints: 75833
+ - Distance restraints: 18745
+ - Omega restraints: 12607
+ - Theta restraints: 24763
+ - Phi restraints:   19718
+Energy(iter=1): -227512.6 --> -228558.8 (accept)
+short + medium + long
+Number of applied pair restraints: 75833
+ - Distance restraints: 18745
+ - Omega restraints: 12607
+ - Theta restraints: 24763
+ - Phi restraints:   19718
+Energy(iter=2): -228558.8 --> -228532.1 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_0_0.05.pdb', bb='', fastrelax=True, mode=0, nrestarts=3, pcut=0.05, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short
+Number of applied pair restraints: 18409
+ - Distance restraints: 3135
+ - Omega restraints: 3066
+ - Theta restraints: 6126
+ - Phi restraints:   6082
+medium
+Number of applied pair restraints: 8988
+ - Distance restraints: 2281
+ - Omega restraints: 1388
+ - Theta restraints: 2766
+ - Phi restraints:   2553
+long
+Number of applied pair restraints: 78607
+ - Distance restraints: 21842
+ - Omega restraints: 11890
+ - Theta restraints: 23411
+ - Phi restraints:   21464
+Energy(iter=0): 99999.9 --> -275606.7 (accept)
+short
+Number of applied pair restraints: 18409
+ - Distance restraints: 3135
+ - Omega restraints: 3066
+ - Theta restraints: 6126
+ - Phi restraints:   6082
+medium
+Number of applied pair restraints: 8988
+ - Distance restraints: 2281
+ - Omega restraints: 1388
+ - Theta restraints: 2766
+ - Phi restraints:   2553
+long
+Number of applied pair restraints: 78607
+ - Distance restraints: 21842
+ - Omega restraints: 11890
+ - Theta restraints: 23411
+ - Phi restraints:   21464
+Energy(iter=1): -275606.7 --> -276287.6 (accept)
+short
+Number of applied pair restraints: 18409
+ - Distance restraints: 3135
+ - Omega restraints: 3066
+ - Theta restraints: 6126
+ - Phi restraints:   6082
+medium
+Number of applied pair restraints: 8988
+ - Distance restraints: 2281
+ - Omega restraints: 1388
+ - Theta restraints: 2766
+ - Phi restraints:   2553
+long
+Number of applied pair restraints: 78607
+ - Distance restraints: 21842
+ - Omega restraints: 11890
+ - Theta restraints: 23411
+ - Phi restraints:   21464
+Energy(iter=2): -276287.6 --> -276602.1 (accept)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_0_0.15.pdb', bb='', fastrelax=True, mode=0, nrestarts=3, pcut=0.15, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short
+Number of applied pair restraints: 18279
+ - Distance restraints: 3118
+ - Omega restraints: 3044
+ - Theta restraints: 6086
+ - Phi restraints:   6031
+medium
+Number of applied pair restraints: 8078
+ - Distance restraints: 1913
+ - Omega restraints: 1294
+ - Theta restraints: 2555
+ - Phi restraints:   2316
+long
+Number of applied pair restraints: 69534
+ - Distance restraints: 17825
+ - Omega restraints: 10915
+ - Theta restraints: 21460
+ - Phi restraints:   19334
+Energy(iter=0): 99999.9 --> -264046.7 (accept)
+short
+Number of applied pair restraints: 18279
+ - Distance restraints: 3118
+ - Omega restraints: 3044
+ - Theta restraints: 6086
+ - Phi restraints:   6031
+medium
+Number of applied pair restraints: 8078
+ - Distance restraints: 1913
+ - Omega restraints: 1294
+ - Theta restraints: 2555
+ - Phi restraints:   2316
+long
+Number of applied pair restraints: 69534
+ - Distance restraints: 17825
+ - Omega restraints: 10915
+ - Theta restraints: 21460
+ - Phi restraints:   19334
+Energy(iter=1): -264046.7 --> -263692.0 (reject)
+short
+Number of applied pair restraints: 18279
+ - Distance restraints: 3118
+ - Omega restraints: 3044
+ - Theta restraints: 6086
+ - Phi restraints:   6031
+medium
+Number of applied pair restraints: 8078
+ - Distance restraints: 1913
+ - Omega restraints: 1294
+ - Theta restraints: 2555
+ - Phi restraints:   2316
+long
+Number of applied pair restraints: 69534
+ - Distance restraints: 17825
+ - Omega restraints: 10915
+ - Theta restraints: 21460
+ - Phi restraints:   19334
+Energy(iter=2): -264046.7 --> -262820.2 (reject)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357
+Namespace(FASTA='query.fasta', NPZ='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/t000_.3track.npz', OUT='/fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/pdb-3track/model0_2_0.05.pdb', bb='', fastrelax=True, mode=2, nrestarts=3, pcut=0.05, roll=True, save_chk=False, sg='7,3', steps=1000, use_orient=True)
+PyRosetta-4 2021 [Rosetta PyRosetta4.Release.python37.linux 2021.24+release.16a09fec0f32092e7310388a785c370afc46d59f 2021-06-15T16:18:14] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+Apply circular shift...
+Savitzky-Golay:     7,3
+dist restraints:    27969
+omega restraints:   17055
+theta restraints:   33725
+phi restraints:     31521
+mutation: G4A
+mutation: G12A
+mutation: G58A
+mutation: G68A
+mutation: G81A
+mutation: G112A
+mutation: G114A
+mutation: G118A
+mutation: G122A
+mutation: G125A
+mutation: G140A
+mutation: G158A
+mutation: G184A
+mutation: G188A
+mutation: G222A
+mutation: G229A
+mutation: G231A
+mutation: G266A
+mutation: G270A
+mutation: G272A
+mutation: G286A
+mutation: G350A
+setting random (phi,psi,omega)...
+short + medium + long
+Number of applied pair restraints: 106004
+ - Distance restraints: 27258
+ - Omega restraints: 16344
+ - Theta restraints: 32303
+ - Phi restraints:   30099
+Energy(iter=0): 99999.9 --> -275507.7 (accept)
+short + medium + long
+Number of applied pair restraints: 106004
+ - Distance restraints: 27258
+ - Omega restraints: 16344
+ - Theta restraints: 32303
+ - Phi restraints:   30099
+Energy(iter=1): -275507.7 --> -277400.0 (accept)
+short + medium + long
+Number of applied pair restraints: 106004
+ - Distance restraints: 27258
+ - Omega restraints: 16344
+ - Theta restraints: 32303
+ - Phi restraints:   30099
+Energy(iter=2): -277400.0 --> -277589.7 (accept)
+mutation: A4G
+mutation: A12G
+mutation: A58G
+mutation: A68G
+mutation: A81G
+mutation: A112G
+mutation: A114G
+mutation: A118G
+mutation: A122G
+mutation: A125G
+mutation: A140G
+mutation: A158G
+mutation: A184G
+mutation: A188G
+mutation: A222G
+mutation: A229G
+mutation: A231G
+mutation: A266G
+mutation: A270G
+mutation: A272G
+mutation: A286G
+mutation: A350G
+2.0
+1.0
+idealize...
+relax: First round... (focused on torsion space relaxation)
+Number of applied pair restraints: 83085
+ - Distance restraints: 19849
+ - Omega restraints: 13226
+ - Theta restraints: 26069
+ - Phi restraints:   23941
+1.0
+0.5
+relax: Second round... (cartesian space)
+Number of applied pair restraints: 4482
+ - Distance restraints: 4482
+Number of applied coordinate restraints: 357

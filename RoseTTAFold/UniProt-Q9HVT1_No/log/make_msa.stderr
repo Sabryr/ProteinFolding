@@ -1,0 +1,28 @@
+- 02:39:47.399 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.a3m
+
+- 02:39:47.399 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.id90cov75.a3m
+
+- 02:39:47.551 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.a3m
+
+- 02:39:47.551 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-30.id90cov50.a3m
+
+- 02:45:59.631 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.a3m
+
+- 02:45:59.631 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.id90cov75.a3m
+
+- 02:45:59.835 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.a3m
+
+- 02:45:59.835 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-10.id90cov50.a3m
+
+- 02:55:34.299 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+
+- 02:55:34.299 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.id90cov75.a3m
+
+- 02:55:34.375 WARNING: Maximum number 65535 of sequences exceeded in file /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+
+- 02:55:34.681 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+
+- 02:55:34.681 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.id90cov50.a3m
+
+- 02:55:34.760 WARNING: Maximum number 65535 of sequences exceeded in file /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-Q9HVT1_No/hhblits/t000_.1e-6.a3m
+

@@ -1,0 +1,20 @@
+- 00:43:34.194 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-30.a3m
+
+- 00:43:34.194 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-30.id90cov75.a3m
+
+- 00:43:34.254 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-30.a3m
+
+- 00:43:34.254 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-30.id90cov50.a3m
+
+- 00:53:36.769 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-10.a3m
+
+- 00:53:36.769 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-10.id90cov75.a3m
+
+- 00:53:36.883 WARNING: Maximum number 65535 of sequences exceeded in file /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-10.a3m
+
+- 00:53:37.349 INFO: Input file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-10.a3m
+
+- 00:53:37.349 INFO: Output file = /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-10.id90cov50.a3m
+
+- 00:53:37.476 WARNING: Maximum number 65535 of sequences exceeded in file /fp/projects01/ec12/sabryr/Git/ProteinFolding/RoseTTAFold/UniProt-P35575/hhblits/t000_.1e-10.a3m
+
