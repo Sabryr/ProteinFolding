@@ -33,8 +33,8 @@ run.sh -d $ALPHAFOLD_DATA  -o out -m model_1 -f query.fasta -t 2020-05-14
 | UniProt-O76024    |905	| 01:16:16 |  2:24:53|
 | UniProt-P16736    |972	| 01:44:57 |  4:20:47|
 | UniProt-P35575    |363	| 00:45:49 |  1:10:13|
-| UniProt-Q9HVT1    |216	| 00:32:19 |  0:45:57|
-| UniProt-Q9HVT1_No |196	| 00:33:51 |  0:46:53|
+| UniProt-Q9HVT1    |216	| 00:38:44 |  0:45:57|
+| UniProt-Q9HVT1_No |196	| 00:39:17 |  0:46:53|
                     
 
 ## Sequences
