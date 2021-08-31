@@ -3,8 +3,8 @@ Match_columns 192
 No_of_seqs    121 out of 415
 Neff          4.67076
 Searched_HMMs 80799
-Date          Fri Aug 27 17:29:06 2021
-Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmp6r40_lwz/query.a3m -o /tmp/tmp6r40_lwz/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
+Date          Tue Aug 31 23:14:06 2021
+Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmpyuigye5k/query.a3m -o /tmp/tmpyuigye5k/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
   1 4EYZ_A Cellulosome-related pro  97.3 1.5E-06 1.9E-11   77.4   0.0   44  114-157   161-220 (246)
