@@ -9,5 +9,5 @@ for pdb in $(find -type f -name "*.pdb"); do  export FNM=$(echo $pdb| awk -F "/"
 for ti in $(sacct -j 6431,6433,6434,6432,6435 -o JobId,Start,End | grep batch | awk '{print $3}'); do date --date="$ti" "+%T" ; done;
 
 
-
+for f in $(find Alphafold -name query.fasta); do echo $f; grep -v ">" $f| wc -c; done;
 
