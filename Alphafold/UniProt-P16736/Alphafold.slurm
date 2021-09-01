@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Job name:
-#SBATCH --job-name=ALPHAFOLD
-#SBATCH --account=XXXX
+#SBATCH --job-name=P16736-ALPHAFOLD
+#SBATCH --account=ec12
 #SBATCH --time=10:10:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=96
@@ -22,4 +22,4 @@ module load Alphafold/2.0.0.1
 
 ALPHAFOLD_DATA=/cluster/shared/databases/AlphaFold/full
 
-run.sh -d $ALPHAFOLD_DATA  -o out -m model_1 -f query.fasta -t 2020-05-14
+run.sh -d $ALPHAFOLD_DATA  -o out -m model_1,model_2,model_3,model_4,model_5  -f query.fasta -t 2020-05-14

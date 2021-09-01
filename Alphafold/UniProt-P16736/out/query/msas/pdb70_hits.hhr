@@ -3,8 +3,8 @@ Match_columns 956
 No_of_seqs    195 out of 248
 Neff          3.34498
 Searched_HMMs 80799
-Date          Fri Aug 27 17:42:12 2021
-Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmpcfu02yvl/query.a3m -o /tmp/tmpcfu02yvl/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
+Date          Tue Aug 31 23:13:51 2021
+Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmp64gd8wc4/query.a3m -o /tmp/tmp64gd8wc4/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
   1 6HPU_A ATP-dependent DNA helic  97.6 3.9E-07 4.8E-12   96.9   0.0   54  872-928   342-395 (418)

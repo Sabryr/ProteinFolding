@@ -3,8 +3,8 @@ Match_columns 890
 No_of_seqs    356 out of 1004
 Neff          5.98733
 Searched_HMMs 80799
-Date          Fri Aug 27 16:55:49 2021
-Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmpvpsucfl0/query.a3m -o /tmp/tmpvpsucfl0/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
+Date          Tue Aug 31 23:54:53 2021
+Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmpkz58k7ec/query.a3m -o /tmp/tmpkz58k7ec/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
   1 6IF6_A DnaJ domain protein; Fl  97.0 7.9E-06 9.8E-11   75.8   0.0  109   63-176     9-117 (133)

@@ -3,8 +3,8 @@ Match_columns 357
 No_of_seqs    141 out of 1262
 Neff          6.32212
 Searched_HMMs 80799
-Date          Fri Aug 27 16:54:12 2021
-Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmprgh2kcg1/query.a3m -o /tmp/tmprgh2kcg1/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
+Date          Tue Aug 31 23:53:41 2021
+Command       /cluster/software/Alphafold/2.0.0.1/bin/hhsearch -i /tmp/tmps6ykuj4b/query.a3m -o /tmp/tmps6ykuj4b/output.hhr -maxseq 1000000 -d /cluster/shared/databases/AlphaFold/full/pdb70/pdb70 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
   1 5JKI_A Putative lipid phosphat  98.9 1.3E-12 1.6E-17  121.6   0.0  171    6-201    40-215 (222)
