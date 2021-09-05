@@ -1,0 +1,42 @@
+1.  Acitvate conda/miniconda or load the module
+2.  export INSTALL_LOC=<YOUR_PATH>
+3.  conda env create -f RoseTTAFold-linux.yml --prefix=$INSTALL_LOC/RoseTTAFold
+4.  conda activate $INSTALL_LOC/RoseTTAFold
+4.  cd $INSTALL_LOC/RoseTTAFold
+5.  git clone git@github.com:RosettaCommons/RoseTTAFold.git
+6.  cd RoseTTAFold
+7.  ./install_dependencies.sh
+8.  wget https://files.ipd.uw.edu/pub/RoseTTAFold/weights.tar.gz
+9.  tar xfz weights.tar.gz
+10  rm weights.tar.gz
+11. DATA_LOCATION=/itf-fi-ml/shared/databases/RoseTTAFold/
+12. ln -s ${DATA_LOCATION}/pdb100_2021Mar03 pdb100_2021Mar03
+13. ln -s ${DATA_LOCATION}/UniRef30_2020_06 UniRef30_2020_06
+14. ln -s ${DATA_LOCATION}/bfd bfd
+15. Make the python files executable 
+	for file in $(find -type f -name *.py); do echo $file; chmod +x $file; sed -i '1s/^/#!/usr/bin/env python\n/' $file; done;
+15. Pyrosetta
+	15.1. Get license
+  	15.2  Download pyrosetta-2021.24+release.16a09fe-cp37-cp37m-linux_x86_64.whl
+        15.3  pip install pyrosetta-2021.24+release.16a09fe-cp37-cp37m-linux_x86_64.whl
+16. Patch make_ss.sh 
+	Find the make_ss.sh and add BLASTMAT path below DATADIR.
+        export BLASTMAT=$INSTALL_LOC/RoseTTAFold/RoseTTAFold/csblast-2.2.3/data
+17. Remove all the place where conda activated in run_pyrosetta_ver.sh and manully acitivate conda env berfore executing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
